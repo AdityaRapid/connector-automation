@@ -1,0 +1,7088 @@
+[
+  {
+    "name": "AI Textraction",
+    "date": "30/01/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Gehpzd/logo/orig"
+  },
+  {
+    "name": "Aidbase",
+    "date": "30/01/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hv9w/logo/orig"
+  },
+  {
+    "name": "AirOps",
+    "date": "30/01/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Gehpxq/logo/orig"
+  },
+  {
+    "name": "Airparser",
+    "date": "31/01/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPE8/logo/orig"
+  },
+  {
+    "name": "AITable.ai",
+    "date": "31/01/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMlP/logo/orig"
+  },
+  {
+    "name": "Albus",
+    "date": "31/01/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7Ja/logo/orig"
+  },
+  {
+    "name": "Algomo",
+    "date": "01/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEheV4/logo/orig"
+  },
+  {
+    "name": "All-Images.ai",
+    "date": "01/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJbK/logo/orig"
+  },
+  {
+    "name": "AltText.ai",
+    "date": "01/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwoM/logo/orig"
+  },
+  {
+    "name": "Anchor Browser",
+    "date": "02/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbEN/logo/orig"
+  },
+  {
+    "name": "Anthropic (Claude)",
+    "date": "02/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhqA/logo/orig"
+  },
+  {
+    "name": "api4ai",
+    "date": "02/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaZV/logo/orig"
+  },
+  {
+    "name": "astica.ai",
+    "date": "03/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_3GhgjN/logo/orig"
+  },
+  {
+    "name": "AutoBlogger",
+    "date": "03/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPo6/logo/orig"
+  },
+  {
+    "name": "Autobound",
+    "date": "03/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPVV/logo/orig"
+  },
+  {
+    "name": "Azure AI Vision",
+    "date": "04/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMBR/logo/orig"
+  },
+  {
+    "name": "bot9",
+    "date": "04/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxRy/logo/orig"
+  },
+  {
+    "name": "Botcake",
+    "date": "04/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJd2/logo/orig"
+  },
+  {
+    "name": "Browserbase",
+    "date": "05/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxbe/logo/orig"
+  },
+  {
+    "name": "BurstyAI",
+    "date": "05/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_7Lho8N/logo/orig"
+  },
+  {
+    "name": "Castmagic",
+    "date": "05/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_8Phqa4/logo/orig"
+  },
+  {
+    "name": "ChainAware.ai",
+    "date": "06/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGdJ/logo/orig"
+  },
+  {
+    "name": "Chaindesk",
+    "date": "06/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9Pn/logo/orig"
+  },
+  {
+    "name": "Chatbot Builder",
+    "date": "06/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Gehp5B/logo/orig"
+  },
+  {
+    "name": "ChatBotKit",
+    "date": "07/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh76E/logo/orig"
+  },
+  {
+    "name": "ChatFly",
+    "date": "07/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhw2B/logo/orig"
+  },
+  {
+    "name": "Chatlayer",
+    "date": "07/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGKW/logo/orig"
+  },
+  {
+    "name": "Claid AI",
+    "date": "08/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqxV/logo/orig"
+  },
+  {
+    "name": "Cody",
+    "date": "08/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhARa/logo/orig"
+  },
+  {
+    "name": "Columns Ai",
+    "date": "08/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbvr/logo/orig"
+  },
+  {
+    "name": "Contact Enhance",
+    "date": "09/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEheLr/logo/orig"
+  },
+  {
+    "name": "Cradl AI",
+    "date": "09/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3JG/logo/orig"
+  },
+  {
+    "name": "Deepgram",
+    "date": "09/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7Lhjj/logo/orig"
+  },
+  {
+    "name": "DeepImage",
+    "date": "10/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_8Phq5L/logo/orig"
+  },
+  {
+    "name": "DeepSeek",
+    "date": "10/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphvnx/logo/orig"
+  },
+  {
+    "name": "Documenterra",
+    "date": "10/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_3GhgQ2/logo/orig"
+  },
+  {
+    "name": "DopplerAI",
+    "date": "11/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h9pD/logo/orig"
+  },
+  {
+    "name": "Dust",
+    "date": "11/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Arhjxz/logo/orig"
+  },
+  {
+    "name": "E2B",
+    "date": "11/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hb9E/logo/orig"
+  },
+  {
+    "name": "Easy-Peasy.AI",
+    "date": "12/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3q7/logo/orig"
+  },
+  {
+    "name": "fal.ai",
+    "date": "12/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7ne/logo/orig"
+  },
+  {
+    "name": "Faraday",
+    "date": "12/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEheBV/logo/orig"
+  },
+  {
+    "name": "Fireflies",
+    "date": "13/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRK5/logo/orig"
+  },
+  {
+    "name": "Flash (by Velora AI)",
+    "date": "13/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgEG/logo/orig"
+  },
+  {
+    "name": "Flipando",
+    "date": "13/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDBA/logo/orig"
+  },
+  {
+    "name": "FlowiseAI",
+    "date": "13/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgnl/logo/orig"
+  },
+  {
+    "name": "Gan.AI",
+    "date": "13/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hvE3/logo/orig"
+  },
+  {
+    "name": "Genderize",
+    "date": "13/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwWB/logo/orig"
+  },
+  {
+    "name": "Generated Photos",
+    "date": "13/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hJK/logo/orig"
+  },
+  {
+    "name": "Google Cloud Vision",
+    "date": "13/02/26",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRP2/logo/orig"
+  },
+  {
+    "name": "Google Gemini",
+    "date": "13/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ArhjGP/logo/orig"
+  },
+  {
+    "name": "Google Vertex AI",
+    "date": "13/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwLd/logo/orig"
+  },
+  {
+    "name": "gpt-trainer",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaNd/logo/orig"
+  },
+  {
+    "name": "GPTZero: Detect AI",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhD0W/logo/orig"
+  },
+  {
+    "name": "Griptape",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvRZ/logo/orig"
+  },
+  {
+    "name": "Groq Cloud",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpoV/logo/orig"
+  },
+  {
+    "name": "Hansei",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghg05/logo/orig"
+  },
+  {
+    "name": "Hathr AI",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwKv/logo/orig"
+  },
+  {
+    "name": "Height",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghg9d/logo/orig"
+  },
+  {
+    "name": "HeyGen",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRwM/logo/orig"
+  },
+  {
+    "name": "Hugging Face",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hp8/logo/orig"
+  },
+  {
+    "name": "IdentityCheck",
+    "date": "14/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxB2/logo/orig"
+  },
+  {
+    "name": "Illumidesk",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_8Phqzq/logo/orig"
+  },
+  {
+    "name": "Imagga",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3GhgD4/logo/orig"
+  },
+  {
+    "name": "InsertChat",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphv8a/logo/orig"
+  },
+  {
+    "name": "Insighto.ai",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPvx/logo/orig"
+  },
+  {
+    "name": "JigsawStack",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hx0z/logo/orig"
+  },
+  {
+    "name": "Jina Reader",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRy9/logo/orig"
+  },
+  {
+    "name": "Kindo",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAV9/logo/orig"
+  },
+  {
+    "name": "KodaGPT",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hvr3/logo/orig"
+  },
+  {
+    "name": "Langbase",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRzk/logo/orig"
+  },
+  {
+    "name": "Langfuse",
+    "date": "15/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_7LhoLq/logo/orig"
+  },
+  {
+    "name": "Leiga",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhdzL/logo/orig"
+  },
+  {
+    "name": "Linkup",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7Ed/logo/orig"
+  },
+  {
+    "name": "LiveKit",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2GG/logo/orig"
+  },
+  {
+    "name": "Llama AI",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwQ3/logo/orig"
+  },
+  {
+    "name": "LLMWhisperer",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhd8J/logo/orig"
+  },
+  {
+    "name": "LMNT",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3xo/logo/orig"
+  },
+  {
+    "name": "Maestra",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpW9/logo/orig"
+  },
+  {
+    "name": "Mem",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbL5/logo/orig"
+  },
+  {
+    "name": "Metatext.AI Pre-build AI models API",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hwz/logo/orig"
+  },
+  {
+    "name": "Microsoft Azure AI Translator",
+    "date": "16/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgEW/logo/orig"
+  },
+  {
+    "name": "Needle",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhdvg/logo/orig"
+  },
+  {
+    "name": "NEURONWriter",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh35G/logo/orig"
+  },
+  {
+    "name": "Nyckel",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2PQ/logo/orig"
+  },
+  {
+    "name": "Ollama",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9y2/logo/orig"
+  },
+  {
+    "name": "OpenAI (ChatGPT)",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnhBo/logo/orig"
+  },
+  {
+    "name": "OpenPerplex",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3GhgPz/logo/orig"
+  },
+  {
+    "name": "OpenRouter",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh955/logo/orig"
+  },
+  {
+    "name": "Originality.ai",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_68hvxL/logo/orig"
+  },
+  {
+    "name": "Orimon",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hv2e/logo/orig"
+  },
+  {
+    "name": "Paigo",
+    "date": "17/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhw3G/logo/orig"
+  },
+  {
+    "name": "Perplexity",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_7Lho0v/logo/orig"
+  },
+  {
+    "name": "Pinecone",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhdQ/logo/orig"
+  },
+  {
+    "name": "Plate Recognizer",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxqn/logo/orig"
+  },
+  {
+    "name": "PublisherKit",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhd4j/logo/orig"
+  },
+  {
+    "name": "Qualetics",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhw4P/logo/orig"
+  },
+  {
+    "name": "Ragie",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDr4/logo/orig"
+  },
+  {
+    "name": "Reform",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgoM/logo/orig"
+  },
+  {
+    "name": "Relevance AI",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h9En/logo/orig"
+  },
+  {
+    "name": "Rev.ai",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2Rh0J/logo/orig"
+  },
+  {
+    "name": "SiteSpeakAI",
+    "date": "18/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxnB/logo/orig"
+  },
+  {
+    "name": "Stammer.ai",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEhe7V/logo/orig"
+  },
+  {
+    "name": "Symbl.ai",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5ghE7/logo/orig"
+  },
+  {
+    "name": "Tavily",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7Z6/logo/orig"
+  },
+  {
+    "name": "Thoughtful GPT",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7WZ/logo/orig"
+  },
+  {
+    "name": "Tisane Labs",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7hpe/logo/orig"
+  },
+  {
+    "name": "Uberduck",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJvG/logo/orig"
+  },
+  {
+    "name": "7todos",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehoA/logo/orig"
+  },
+  {
+    "name": "Accelo",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7hkB/logo/orig"
+  },
+  {
+    "name": "Aero Workflow",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xoh8x/logo/orig"
+  },
+  {
+    "name": "Agiliron",
+    "date": "19/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgkG/logo/orig"
+  },
+  {
+    "name": "Agrello",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDeD/logo/orig"
+  },
+  {
+    "name": "Airfocus",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaYD/logo/orig"
+  },
+  {
+    "name": "Akeneo",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhab/logo/orig"
+  },
+  {
+    "name": "Algolia",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhpV/logo/orig"
+  },
+  {
+    "name": "Allocadence",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2x4/logo/orig"
+  },
+  {
+    "name": "Altoviz",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgVM/logo/orig"
+  },
+  {
+    "name": "AttractWell",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxEw/logo/orig"
+  },
+  {
+    "name": "Beebole",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hxwd/logo/orig"
+  },
+  {
+    "name": "Bilflo",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGMG/logo/orig"
+  },
+  {
+    "name": "Brex",
+    "date": "20/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhwv/logo/orig"
+  },
+  {
+    "name": "BusinessLogic",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6hWv/logo/orig"
+  },
+  {
+    "name": "Cal.com",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hNP/logo/orig"
+  },
+  {
+    "name": "CalendarHero",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhl2/logo/orig"
+  },
+  {
+    "name": "Chaser",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ArhjJ6/logo/orig"
+  },
+  {
+    "name": "Clear Books",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgMW/logo/orig"
+  },
+  {
+    "name": "Click2Mail",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hg5/logo/orig"
+  },
+  {
+    "name": "ClickTime",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hW4/logo/orig"
+  },
+  {
+    "name": "Clientary",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohpv/logo/orig"
+  },
+  {
+    "name": "Cliniko",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hP9/logo/orig"
+  },
+  {
+    "name": "Clockwork Recruiting",
+    "date": "21/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhR90/logo/orig"
+  },
+  {
+    "name": "Cloudpresenter",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJYq/logo/orig"
+  },
+  {
+    "name": "Cloze",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwwk/logo/orig"
+  },
+  {
+    "name": "Connecteam",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRpe/logo/orig"
+  },
+  {
+    "name": "Connectwise PSA",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwN7/logo/orig"
+  },
+  {
+    "name": "Craftboxx",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh70J/logo/orig"
+  },
+  {
+    "name": "DataForSEO",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hA0/logo/orig"
+  },
+  {
+    "name": "DeskTime",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhRb/logo/orig"
+  },
+  {
+    "name": "Dex",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVz5/logo/orig"
+  },
+  {
+    "name": "Dock Certs",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6hZ2/logo/orig"
+  },
+  {
+    "name": "DocuMerge",
+    "date": "22/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxzW/logo/orig"
+  },
+  {
+    "name": "Docusign Developer",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Noh37/logo/orig"
+  },
+  {
+    "name": "Drata",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhRr/logo/orig"
+  },
+  {
+    "name": "Easyly",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7x3/logo/orig"
+  },
+  {
+    "name": "Easyship",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xywhpy/logo/orig"
+  },
+  {
+    "name": "Elorus",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNhne/logo/orig"
+  },
+  {
+    "name": "Email Verifier Api",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQh8V/logo/orig"
+  },
+  {
+    "name": "Enrow",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVW5/logo/orig"
+  },
+  {
+    "name": "ExhibitDay",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Kvhpv4/logo/orig"
+  },
+  {
+    "name": "Expensify",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hnd/logo/orig"
+  },
+  {
+    "name": "faktoora",
+    "date": "23/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhdGj/logo/orig"
+  },
+  {
+    "name": "Fakturoid",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGda/logo/orig"
+  },
+  {
+    "name": "Findymail",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Arhj4N/logo/orig"
+  },
+  {
+    "name": "Finmei",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_68hv4r/logo/orig"
+  },
+  {
+    "name": "Gong",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2va/logo/orig"
+  },
+  {
+    "name": "Google Business Profile",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_GehpZR/logo/orig"
+  },
+  {
+    "name": "H-supertools Analytics Tool",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dhR0/logo/orig"
+  },
+  {
+    "name": "IFTTT",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0hxK/logo/orig"
+  },
+  {
+    "name": "Intuiface",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehJp/logo/orig"
+  },
+  {
+    "name": "Ironclad",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3zb/logo/orig"
+  },
+  {
+    "name": "Jobber",
+    "date": "24/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvqG/logo/orig"
+  },
+  {
+    "name": "Jobnimbus",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhoe/logo/orig"
+  },
+  {
+    "name": "Jooto",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMqe/logo/orig"
+  },
+  {
+    "name": "KonfHub",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9bJ/logo/orig"
+  },
+  {
+    "name": "Loyverse",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_bPhaba/logo/orig"
+  },
+  {
+    "name": "MaintainX",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhDq/logo/orig"
+  },
+  {
+    "name": "McTime",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hvwQ/logo/orig"
+  },
+  {
+    "name": "Merge",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3yz/logo/orig"
+  },
+  {
+    "name": "Mews",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dhzy/logo/orig"
+  },
+  {
+    "name": "Microsoft Dynamics 365 Business Central API",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zhJw/logo/orig"
+  },
+  {
+    "name": "morningmate",
+    "date": "25/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbMy/logo/orig"
+  },
+  {
+    "name": "Motive",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7lR/logo/orig"
+  },
+  {
+    "name": "Nifty",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEhezn/logo/orig"
+  },
+  {
+    "name": "OANDA",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zh2x/logo/orig"
+  },
+  {
+    "name": "Odoo",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvWZ/logo/orig"
+  },
+  {
+    "name": "Onfleet",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohMP/logo/orig"
+  },
+  {
+    "name": "OnlineCheckWriter",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_P6hVMp/logo/orig"
+  },
+  {
+    "name": "Order Desk",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbhdz/logo/orig"
+  },
+  {
+    "name": "Pennylane",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLha5A/logo/orig"
+  },
+  {
+    "name": "PicDefense",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_68hv5g/logo/orig"
+  },
+  {
+    "name": "Planview Leankit",
+    "date": "26/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7hrv/logo/orig"
+  },
+  {
+    "name": "Planyo Online Booking",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqeh4K/logo/orig"
+  },
+  {
+    "name": "PostGrid Verify",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hxDD/logo/orig"
+  },
+  {
+    "name": "pretix",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhlz/logo/orig"
+  },
+  {
+    "name": "Pro Ledger",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEhe8Z/logo/orig"
+  },
+  {
+    "name": "ProAbono",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgQM/logo/orig"
+  },
+  {
+    "name": "Quipu",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhAL/logo/orig"
+  },
+  {
+    "name": "Ramp",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02h8Z/logo/orig"
+  },
+  {
+    "name": "Ramp (Sandbox)",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGZn/logo/orig"
+  },
+  {
+    "name": "Real ID",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhbq/logo/orig"
+  },
+  {
+    "name": "Regal",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3GhgQL/logo/orig"
+  },
+  {
+    "name": "Remote Retrieval",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbdD/logo/orig"
+  },
+  {
+    "name": "Rentman",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAPL/logo/orig"
+  },
+  {
+    "name": "Resource Guru",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJ7e/logo/orig"
+  },
+  {
+    "name": "Sendcloud",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hgV/logo/orig"
+  },
+  {
+    "name": "sevDesk",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Noh59/logo/orig"
+  },
+  {
+    "name": "Shipday",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hrv/logo/orig"
+  },
+  {
+    "name": "Supercast",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7hl3/logo/orig"
+  },
+  {
+    "name": "The Bookie",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAd7/logo/orig"
+  },
+  {
+    "name": "Tookan",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hLP/logo/orig"
+  },
+  {
+    "name": "Tremendous",
+    "date": "27/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhWM/logo/orig"
+  },
+  {
+    "name": "Adyen",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvQQ/logo/orig"
+  },
+  {
+    "name": "AfterShip",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVZL/logo/orig"
+  },
+  {
+    "name": "Alegra",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehzG/logo/orig"
+  },
+  {
+    "name": "AmeriCommerce",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAy3/logo/orig"
+  },
+  {
+    "name": "Amilia",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hZv/logo/orig"
+  },
+  {
+    "name": "Barcode Lookup",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7h5P/logo/orig"
+  },
+  {
+    "name": "BaseLinker",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhjo/logo/orig"
+  },
+  {
+    "name": "BigCommerce",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hlD/logo/orig"
+  },
+  {
+    "name": "Brex (Staging)",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1RphY3/logo/orig"
+  },
+  {
+    "name": "BTCPay Server",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0rK/logo/orig"
+  },
+  {
+    "name": "Chargebee",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1NohBV/logo/orig"
+  },
+  {
+    "name": "Chargify",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZh0Q/logo/orig"
+  },
+  {
+    "name": "Coinbase",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYh7O/logo/orig"
+  },
+  {
+    "name": "CoinMarketCal",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hYe/logo/orig"
+  },
+  {
+    "name": "CoinMarketCap",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2Rhb2/logo/orig"
+  },
+  {
+    "name": "Countdown API",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbhgK/logo/orig"
+  },
+  {
+    "name": "Crunchbase",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhDK/logo/orig"
+  },
+  {
+    "name": "CurrencyScoop",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhvq/logo/orig"
+  },
+  {
+    "name": "DigitalRiver",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMDj/logo/orig"
+  },
+  {
+    "name": "Discogs",
+    "date": "28/02/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2qJ/logo/orig"
+  },
+  {
+    "name": "Domain Group",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9EL/logo/orig"
+  },
+  {
+    "name": "ecwid",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhw5/logo/orig"
+  },
+  {
+    "name": "EODHD APIs",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hD8/logo/orig"
+  },
+  {
+    "name": "Etsy",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0h3N/logo/orig"
+  },
+  {
+    "name": "Expedy",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqpE/logo/orig"
+  },
+  {
+    "name": "FedEx",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hyQ/logo/orig"
+  },
+  {
+    "name": "Fidel API",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0Dj/logo/orig"
+  },
+  {
+    "name": "Flodesk",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwYJ/logo/orig"
+  },
+  {
+    "name": "Flutterwave",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhBB/logo/orig"
+  },
+  {
+    "name": "FraudLabs Pro",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7hMk/logo/orig"
+  },
+  {
+    "name": "GoCardless Bank Account Data (formerly Nordigen)",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xoh8V/logo/orig"
+  },
+  {
+    "name": "Google Merchant Center",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3GhgoN/logo/orig"
+  },
+  {
+    "name": "Gorgias",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Rphn6/logo/orig"
+  },
+  {
+    "name": "JP Funda",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhk9/logo/orig"
+  },
+  {
+    "name": "Jumpseller",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhga2/logo/orig"
+  },
+  {
+    "name": "Keysender",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGkM/logo/orig"
+  },
+  {
+    "name": "Kucoin Futures",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhR0/logo/orig"
+  },
+  {
+    "name": "Lemon Squeezy",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhJM/logo/orig"
+  },
+  {
+    "name": "Little Green Light",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhww6/logo/orig"
+  },
+  {
+    "name": "Loop Returns",
+    "date": "01/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAW2/logo/orig"
+  },
+  {
+    "name": "Mamo Business",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqZJ/logo/orig"
+  },
+  {
+    "name": "Megaventory",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhxA/logo/orig"
+  },
+  {
+    "name": "Memberstack",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnhMo/logo/orig"
+  },
+  {
+    "name": "Mercury",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhzK/logo/orig"
+  },
+  {
+    "name": "Moneybird",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hqr/logo/orig"
+  },
+  {
+    "name": "MX Technologies",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvZx/logo/orig"
+  },
+  {
+    "name": "Nasdaq Data Link (Time Series and Table data)",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohj5/logo/orig"
+  },
+  {
+    "name": "Omnisend",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1RphbD/logo/orig"
+  },
+  {
+    "name": "OpenSRS",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRvd/logo/orig"
+  },
+  {
+    "name": "OPN (formerly Omise)",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhNN/logo/orig"
+  },
+  {
+    "name": "PassSlot",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbBn/logo/orig"
+  },
+  {
+    "name": "PayPal",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNh8O/logo/orig"
+  },
+  {
+    "name": "Paystack",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hwG/logo/orig"
+  },
+  {
+    "name": "Pexels",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhwz/logo/orig"
+  },
+  {
+    "name": "PHP Point of Sale",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhP5V/logo/orig"
+  },
+  {
+    "name": "Pinterest",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7Lh9Z/logo/orig"
+  },
+  {
+    "name": "Plaid",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7hdm/logo/orig"
+  },
+  {
+    "name": "PolygonScan",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hxJb/logo/orig"
+  },
+  {
+    "name": "Poof",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJlN/logo/orig"
+  },
+  {
+    "name": "Printavo",
+    "date": "02/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEh02/logo/orig"
+  },
+  {
+    "name": "Printful",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhnL/logo/orig"
+  },
+  {
+    "name": "Printful (OAuth)",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohYL/logo/orig"
+  },
+  {
+    "name": "Printify",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hG7E/logo/orig"
+  },
+  {
+    "name": "ProfitWell",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBh7n/logo/orig"
+  },
+  {
+    "name": "Quaderno",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehGG/logo/orig"
+  },
+  {
+    "name": "QuickBooks",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hWG/logo/orig"
+  },
+  {
+    "name": "Quickbooks Sandbox",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqeh3x/logo/orig"
+  },
+  {
+    "name": "ReCharge",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zh5a/logo/orig"
+  },
+  {
+    "name": "Refersion",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6hnD/logo/orig"
+  },
+  {
+    "name": "RepairShopr",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhQe/logo/orig"
+  },
+  {
+    "name": "Retailed",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbky/logo/orig"
+  },
+  {
+    "name": "Shift4",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhAy/logo/orig"
+  },
+  {
+    "name": "ShipStation",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhjD/logo/orig"
+  },
+  {
+    "name": "Shopify",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7a4/logo/orig"
+  },
+  {
+    "name": "Shopify",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7a4/logo/orig"
+  },
+  {
+    "name": "Shoprocket",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDMJ/logo/orig"
+  },
+  {
+    "name": "Snipcart",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhrP/logo/orig"
+  },
+  {
+    "name": "Square",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0hQd/logo/orig"
+  },
+  {
+    "name": "Stripe",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hrX/logo/orig"
+  },
+  {
+    "name": "SumUp",
+    "date": "03/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhg4v/logo/orig"
+  },
+  {
+    "name": "Swell",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhp4/logo/orig"
+  },
+  {
+    "name": "2Chat",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ArhjyZ/logo/orig"
+  },
+  {
+    "name": "8x8 Connect",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGZJ/logo/orig"
+  },
+  {
+    "name": "Aircall",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehQV/logo/orig"
+  },
+  {
+    "name": "Akismet",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhR2V/logo/orig"
+  },
+  {
+    "name": "Alerty",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3v7/logo/orig"
+  },
+  {
+    "name": "Altiria",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxyd/logo/orig"
+  },
+  {
+    "name": "Amazon SES",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5ghj5/logo/orig"
+  },
+  {
+    "name": "Anymail Finder",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hrv/logo/orig"
+  },
+  {
+    "name": "Bandwidth",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhq2/logo/orig"
+  },
+  {
+    "name": "Bird",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhNE/logo/orig"
+  },
+  {
+    "name": "Bland AI",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvVa/logo/orig"
+  },
+  {
+    "name": "Blink",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhyQ/logo/orig"
+  },
+  {
+    "name": "Bluesky by Unshape",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hxjd/logo/orig"
+  },
+  {
+    "name": "BotPenguin",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvGM/logo/orig"
+  },
+  {
+    "name": "Botstar",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hQr/logo/orig"
+  },
+  {
+    "name": "Brosix",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Rphlg/logo/orig"
+  },
+  {
+    "name": "BulkGate",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehzj/logo/orig"
+  },
+  {
+    "name": "CallerAPI",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhV29/logo/orig"
+  },
+  {
+    "name": "Canva",
+    "date": "04/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhalL/logo/orig"
+  },
+  {
+    "name": "Canva Enterprise",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDYW/logo/orig"
+  },
+  {
+    "name": "ChatBot",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2Rh5V/logo/orig"
+  },
+  {
+    "name": "Cisco Webex",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhGr/logo/orig"
+  },
+  {
+    "name": "ClickSend SMS",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNhJV/logo/orig"
+  },
+  {
+    "name": "CommPeak",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDq0/logo/orig"
+  },
+  {
+    "name": "Control D",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvNR/logo/orig"
+  },
+  {
+    "name": "Convolo.ai",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7aE/logo/orig"
+  },
+  {
+    "name": "D7 SMS",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dhPM/logo/orig"
+  },
+  {
+    "name": "DailyBot",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAdx/logo/orig"
+  },
+  {
+    "name": "Deftship",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hvzj/logo/orig"
+  },
+  {
+    "name": "Dexatel",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_GehpnB/logo/orig"
+  },
+  {
+    "name": "DingConnect",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGBl/logo/orig"
+  },
+  {
+    "name": "Discord",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhGn/logo/orig"
+  },
+  {
+    "name": "Discord Bot",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYhyP/logo/orig"
+  },
+  {
+    "name": "Drift",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohZq/logo/orig"
+  },
+  {
+    "name": "Esendex",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3h4q/logo/orig"
+  },
+  {
+    "name": "FracTEL",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hx6j/logo/orig"
+  },
+  {
+    "name": "Gmail",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYhq7/logo/orig"
+  },
+  {
+    "name": "Google Chat",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhglA/logo/orig"
+  },
+  {
+    "name": "Google Meet",
+    "date": "05/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2LW/logo/orig"
+  },
+  {
+    "name": "Heyy",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghgdz/logo/orig"
+  },
+  {
+    "name": "Hullo",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvoJ/logo/orig"
+  },
+  {
+    "name": "Infobip",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhLP/logo/orig"
+  },
+  {
+    "name": "Intercom",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbh0B/logo/orig"
+  },
+  {
+    "name": "Invision Community",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7za/logo/orig"
+  },
+  {
+    "name": "KrispCall",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hM7e/logo/orig"
+  },
+  {
+    "name": "kwtsms",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhdB3/logo/orig"
+  },
+  {
+    "name": "LabsMobile",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhNP/logo/orig"
+  },
+  {
+    "name": "Landbot",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnhEa/logo/orig"
+  },
+  {
+    "name": "LeadIQ",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMPo/logo/orig"
+  },
+  {
+    "name": "Leexi",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGVn/logo/orig"
+  },
+  {
+    "name": "LinkedIn Ads",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRop/logo/orig"
+  },
+  {
+    "name": "LiveSwitch",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpEa/logo/orig"
+  },
+  {
+    "name": "MailGenius",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Gehp8p/logo/orig"
+  },
+  {
+    "name": "ManyChat",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhbj/logo/orig"
+  },
+  {
+    "name": "Mattermost",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhGK/logo/orig"
+  },
+  {
+    "name": "Microsoft Outlook",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhEP/logo/orig"
+  },
+  {
+    "name": "Microsoft Teams",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0hlk/logo/orig"
+  },
+  {
+    "name": "MixMax",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhB3/logo/orig"
+  },
+  {
+    "name": "Mocean API",
+    "date": "06/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPqG/logo/orig"
+  },
+  {
+    "name": "Noor",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvBM/logo/orig"
+  },
+  {
+    "name": "ntfy",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvpR/logo/orig"
+  },
+  {
+    "name": "numverify",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_2Rh6NL/logo/orig"
+  },
+  {
+    "name": "Octopush SMS",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhYG/logo/orig"
+  },
+  {
+    "name": "OpenPhone",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_7LhoW6/logo/orig"
+  },
+  {
+    "name": "Phaxio",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7h8v/logo/orig"
+  },
+  {
+    "name": "Pidj",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ArhjV6/logo/orig"
+  },
+  {
+    "name": "Plivo",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hbq/logo/orig"
+  },
+  {
+    "name": "Pumble",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7Jy/logo/orig"
+  },
+  {
+    "name": "Pushbullet",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hNb/logo/orig"
+  },
+  {
+    "name": "Pushover",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7LhbW/logo/orig"
+  },
+  {
+    "name": "QuickEmailVerification",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5gheE/logo/orig"
+  },
+  {
+    "name": "Quriiri",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hv5R/logo/orig"
+  },
+  {
+    "name": "Resend",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2RhWN/logo/orig"
+  },
+  {
+    "name": "Revolt",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGVG/logo/orig"
+  },
+  {
+    "name": "RingCentral",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqeh2Q/logo/orig"
+  },
+  {
+    "name": "Rocket Chat",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLh4Q/logo/orig"
+  },
+  {
+    "name": "Sendbird AI chabot",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_7LhojN/logo/orig"
+  },
+  {
+    "name": "Sendspark",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpZV/logo/orig"
+  },
+  {
+    "name": "Sendy",
+    "date": "07/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZheW/logo/orig"
+  },
+  {
+    "name": "Slack",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhR1/logo/orig"
+  },
+  {
+    "name": "SlickText",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhWG/logo/orig"
+  },
+  {
+    "name": "SMSlink nc",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghg7z/logo/orig"
+  },
+  {
+    "name": "Team SMS",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Kvhp9a/logo/orig"
+  },
+  {
+    "name": "Textline",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxwG/logo/orig"
+  },
+  {
+    "name": "TPSCheck",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh240/logo/orig"
+  },
+  {
+    "name": "Twilio",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hqO/logo/orig"
+  },
+  {
+    "name": "Twist",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mvNhrb/logo/orig"
+  },
+  {
+    "name": "Typefully",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7Le/logo/orig"
+  },
+  {
+    "name": "1CRM",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhREq/logo/orig"
+  },
+  {
+    "name": "Adversus",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5gh00/logo/orig"
+  },
+  {
+    "name": "Agendor",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhze/logo/orig"
+  },
+  {
+    "name": "Agile CRM",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mvNh8d/logo/orig"
+  },
+  {
+    "name": "Ambivo",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7eG/logo/orig"
+  },
+  {
+    "name": "Apollo.io",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hbN/logo/orig"
+  },
+  {
+    "name": "Attio",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvd3/logo/orig"
+  },
+  {
+    "name": "Axonaut",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohdP/logo/orig"
+  },
+  {
+    "name": "Badger Maps",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhLl/logo/orig"
+  },
+  {
+    "name": "BenchmarkONE",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_bPhaYV/logo/orig"
+  },
+  {
+    "name": "Bloomerang",
+    "date": "08/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h9a3/logo/orig"
+  },
+  {
+    "name": "BoldSign",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhV79/logo/orig"
+  },
+  {
+    "name": "Brevo",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEheG7/logo/orig"
+  },
+  {
+    "name": "CINC",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9Bn/logo/orig"
+  },
+  {
+    "name": "Circle",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xywhq7/logo/orig"
+  },
+  {
+    "name": "Cliento",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhq4p/logo/orig"
+  },
+  {
+    "name": "ClinchPad",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQh6k/logo/orig"
+  },
+  {
+    "name": "Close",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhEz/logo/orig"
+  },
+  {
+    "name": "CompanyHub",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxh8M/logo/orig"
+  },
+  {
+    "name": "Copper",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhEq/logo/orig"
+  },
+  {
+    "name": "Dixa",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3VB/logo/orig"
+  },
+  {
+    "name": "EspoCRM",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAEB/logo/orig"
+  },
+  {
+    "name": "Fireberry",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwMy/logo/orig"
+  },
+  {
+    "name": "ForceManager",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMaM/logo/orig"
+  },
+  {
+    "name": "Freshsales",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xywh8R/logo/orig"
+  },
+  {
+    "name": "FullContact",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hKn/logo/orig"
+  },
+  {
+    "name": "Gainsight",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaKP/logo/orig"
+  },
+  {
+    "name": "Gainsight PX",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_P6hV3p/logo/orig"
+  },
+  {
+    "name": "Gleap",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEhekq/logo/orig"
+  },
+  {
+    "name": "Gloria AI",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJAx/logo/orig"
+  },
+  {
+    "name": "GoDial",
+    "date": "09/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhYG/logo/orig"
+  },
+  {
+    "name": "Google Contacts",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohBe/logo/orig"
+  },
+  {
+    "name": "HelloLeads",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLh6E/logo/orig"
+  },
+  {
+    "name": "Holded",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhN2/logo/orig"
+  },
+  {
+    "name": "HubSpot",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhlP/logo/orig"
+  },
+  {
+    "name": "Hunter",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02h4K/logo/orig"
+  },
+  {
+    "name": "Insightly",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhqB/logo/orig"
+  },
+  {
+    "name": "Klipy",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwvQ/logo/orig"
+  },
+  {
+    "name": "Kustomer",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaB3/logo/orig"
+  },
+  {
+    "name": "Leadfeeder",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0hx6/logo/orig"
+  },
+  {
+    "name": "Leap",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7LhEJ/logo/orig"
+  },
+  {
+    "name": "Lusha",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1RphZv/logo/orig"
+  },
+  {
+    "name": "Microsoft Dynamics 365 Sales",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_2Rh6JK/logo/orig"
+  },
+  {
+    "name": "Nectar CRM",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhv3/logo/orig"
+  },
+  {
+    "name": "NetHunt CRM",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hDY/logo/orig"
+  },
+  {
+    "name": "Nimble",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghglo/logo/orig"
+  },
+  {
+    "name": "NioLeads",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_bPha4M/logo/orig"
+  },
+  {
+    "name": "noCRM.io",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZh8n/logo/orig"
+  },
+  {
+    "name": "Nutshell",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh33w/logo/orig"
+  },
+  {
+    "name": "OnePageCRM",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbhp5/logo/orig"
+  },
+  {
+    "name": "OneSignal (REST API)",
+    "date": "10/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zhv3/logo/orig"
+  },
+  {
+    "name": "Overloop",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbhjv/logo/orig"
+  },
+  {
+    "name": "PAGE X",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaxP/logo/orig"
+  },
+  {
+    "name": "Parma",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPAK/logo/orig"
+  },
+  {
+    "name": "Picky Assist",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehMQ/logo/orig"
+  },
+  {
+    "name": "Pipedrive",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhdk/logo/orig"
+  },
+  {
+    "name": "quentn",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhq2/logo/orig"
+  },
+  {
+    "name": "RealGeeks",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDGn/logo/orig"
+  },
+  {
+    "name": "Relavate",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7ba/logo/orig"
+  },
+  {
+    "name": "Reputation Lyncs",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_P6hV20/logo/orig"
+  },
+  {
+    "name": "Richpanel",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_8PhqrM/logo/orig"
+  },
+  {
+    "name": "Salesflare",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hka/logo/orig"
+  },
+  {
+    "name": "Simla.com",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMYY/logo/orig"
+  },
+  {
+    "name": "Solve CRM",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8PhK0/logo/orig"
+  },
+  {
+    "name": "Teamgate",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhlV/logo/orig"
+  },
+  {
+    "name": "Accuranker",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhv2/logo/orig"
+  },
+  {
+    "name": "Addressfinder",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hx94/logo/orig"
+  },
+  {
+    "name": "Akkio",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7gY/logo/orig"
+  },
+  {
+    "name": "Amplitude",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxh84/logo/orig"
+  },
+  {
+    "name": "Automatic Data Extraction",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhqj/logo/orig"
+  },
+  {
+    "name": "Axesso Data Service - Amazon",
+    "date": "11/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhQa/logo/orig"
+  },
+  {
+    "name": "Baremetrics",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhYJ/logo/orig"
+  },
+  {
+    "name": "Big Data Cloud",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhVq/logo/orig"
+  },
+  {
+    "name": "BigDataCorp",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_RphvVW/logo/orig"
+  },
+  {
+    "name": "BuiltWith",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0hkb/logo/orig"
+  },
+  {
+    "name": "ChartMogul",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNh0q/logo/orig"
+  },
+  {
+    "name": "Chat Data",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0Ey/logo/orig"
+  },
+  {
+    "name": "Clearbit",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hlq/logo/orig"
+  },
+  {
+    "name": "Crawlbase",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhkQ/logo/orig"
+  },
+  {
+    "name": "CrimeoMeter",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArh7o/logo/orig"
+  },
+  {
+    "name": "Data.Police.UK",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8PhBy/logo/orig"
+  },
+  {
+    "name": "Databox",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYh2D/logo/orig"
+  },
+  {
+    "name": "Databricks",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhgy/logo/orig"
+  },
+  {
+    "name": "Enrichley",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh70Y/logo/orig"
+  },
+  {
+    "name": "Epsy",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEheog/logo/orig"
+  },
+  {
+    "name": "Finage",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hN2/logo/orig"
+  },
+  {
+    "name": "Fixer",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehpg/logo/orig"
+  },
+  {
+    "name": "Geckoboard",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7h2g/logo/orig"
+  },
+  {
+    "name": "GenderAPI.io",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3Bz/logo/orig"
+  },
+  {
+    "name": "Google Ads",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mvNhLy/logo/orig"
+  },
+  {
+    "name": "Google Analytics",
+    "date": "12/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQh5A/logo/orig"
+  },
+  {
+    "name": "Howuku",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhK0/logo/orig"
+  },
+  {
+    "name": "Ideal Postcodes",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgp8/logo/orig"
+  },
+  {
+    "name": "Insites",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Kvhpb4/logo/orig"
+  },
+  {
+    "name": "IPinfo.io",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNhy4/logo/orig"
+  },
+  {
+    "name": "Kadoa",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh325/logo/orig"
+  },
+  {
+    "name": "Klazify",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hN3/logo/orig"
+  },
+  {
+    "name": "KnowFirst",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhM02/logo/orig"
+  },
+  {
+    "name": "Loggly (Send Data)",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zhNw/logo/orig"
+  },
+  {
+    "name": "Mboum",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohjD/logo/orig"
+  },
+  {
+    "name": "Metabase",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hav/logo/orig"
+  },
+  {
+    "name": "Microsoft Power BI",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphvq9/logo/orig"
+  },
+  {
+    "name": "Mixpanel",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0h0d/logo/orig"
+  },
+  {
+    "name": "MonkeyLearn",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7LhKG/logo/orig"
+  },
+  {
+    "name": "News API",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpBW/logo/orig"
+  },
+  {
+    "name": "Ongage",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhMk/logo/orig"
+  },
+  {
+    "name": "Orca Scan",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhdw9/logo/orig"
+  },
+  {
+    "name": "Parsera",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDZD/logo/orig"
+  },
+  {
+    "name": "Peaka",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhq76/logo/orig"
+  },
+  {
+    "name": "People Data Labs",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNh40/logo/orig"
+  },
+  {
+    "name": "Plecto",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKh6w/logo/orig"
+  },
+  {
+    "name": "PostHog",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7h7A/logo/orig"
+  },
+  {
+    "name": "Proxycurl",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNhK9/logo/orig"
+  },
+  {
+    "name": "Raven Tools",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohQx/logo/orig"
+  },
+  {
+    "name": "RedCircle API",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhyd/logo/orig"
+  },
+  {
+    "name": "RentCast",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRnV/logo/orig"
+  },
+  {
+    "name": "RocketReach",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2Rh6y/logo/orig"
+  },
+  {
+    "name": "Rosette Text Analytics",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5gh5Q/logo/orig"
+  },
+  {
+    "name": "Seqera",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAQx/logo/orig"
+  },
+  {
+    "name": "SheetDB",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpVN/logo/orig"
+  },
+  {
+    "name": "Sigma",
+    "date": "13/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMrq/logo/orig"
+  },
+  {
+    "name": "Tableau",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaRM/logo/orig"
+  },
+  {
+    "name": "U301",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_bPhajk/logo/orig"
+  },
+  {
+    "name": "Baserow",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13Ghl7/logo/orig"
+  },
+  {
+    "name": "Fauna",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hle/logo/orig"
+  },
+  {
+    "name": "Microsoft Azure SQL Database",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpkL/logo/orig"
+  },
+  {
+    "name": "Microsoft SQL Server",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMQr/logo/orig"
+  },
+  {
+    "name": "MySQL",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhwo/logo/orig"
+  },
+  {
+    "name": "Nile Database",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2YB/logo/orig"
+  },
+  {
+    "name": "PostgreSQL",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0hNB/logo/orig"
+  },
+  {
+    "name": "Supabase Management API",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_2Rh6QL/logo/orig"
+  },
+  {
+    "name": "Adalo",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArh5v/logo/orig"
+  },
+  {
+    "name": "Ahrefs",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhDY/logo/orig"
+  },
+  {
+    "name": "Apiary",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6hBQ/logo/orig"
+  },
+  {
+    "name": "Apify",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xoh3N/logo/orig"
+  },
+  {
+    "name": "BigML",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7h40/logo/orig"
+  },
+  {
+    "name": "BitBucket",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhz1/logo/orig"
+  },
+  {
+    "name": "Bouncer",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhrW/logo/orig"
+  },
+  {
+    "name": "Browse AI",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhj2/logo/orig"
+  },
+  {
+    "name": "Browserless",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hJx/logo/orig"
+  },
+  {
+    "name": "CircleCI",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehpk/logo/orig"
+  },
+  {
+    "name": "Clearout",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhPY/logo/orig"
+  },
+  {
+    "name": "Cloudflare Browser Rendering",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_2Rh6nK/logo/orig"
+  },
+  {
+    "name": "Cloudinary",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6hQ8/logo/orig"
+  },
+  {
+    "name": "Cloudmersive",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0hnv/logo/orig"
+  },
+  {
+    "name": "Code Climate",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxDQ/logo/orig"
+  },
+  {
+    "name": "CodeREADr",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhk7/logo/orig"
+  },
+  {
+    "name": "Confection",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hQw/logo/orig"
+  },
+  {
+    "name": "Crowdin",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhQZ/logo/orig"
+  },
+  {
+    "name": "Datadog",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hBq/logo/orig"
+  },
+  {
+    "name": "Diffchecker",
+    "date": "14/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMz2/logo/orig"
+  },
+  {
+    "name": "DigitalOcean Spaces",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYhRo/logo/orig"
+  },
+  {
+    "name": "Docparser",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhVe/logo/orig"
+  },
+  {
+    "name": "Dromo",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMqM/logo/orig"
+  },
+  {
+    "name": "Fibery",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhDq/logo/orig"
+  },
+  {
+    "name": "FileStack",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhPR/logo/orig"
+  },
+  {
+    "name": "FogBugz",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhWl/logo/orig"
+  },
+  {
+    "name": "GitHub",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhaO/logo/orig"
+  },
+  {
+    "name": "GitLab",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hw1/logo/orig"
+  },
+  {
+    "name": "GoDaddy",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6hJ6/logo/orig"
+  },
+  {
+    "name": "Google reCAPTCHA",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbhDM/logo/orig"
+  },
+  {
+    "name": "Google Workspace Admin",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnhQ7/logo/orig"
+  },
+  {
+    "name": "Grist",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02h0e/logo/orig"
+  },
+  {
+    "name": "IP2Location",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0hJk/logo/orig"
+  },
+  {
+    "name": "IP2Proxy",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbhq6/logo/orig"
+  },
+  {
+    "name": "Kickbox",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbh26/logo/orig"
+  },
+  {
+    "name": "Knack",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hBY/logo/orig"
+  },
+  {
+    "name": "LaunchDarkly",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hjr/logo/orig"
+  },
+  {
+    "name": "LaunchDarkly (OAuth)",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5gh25/logo/orig"
+  },
+  {
+    "name": "Lighthouse",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhdr/logo/orig"
+  },
+  {
+    "name": "Lob",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhgP/logo/orig"
+  },
+  {
+    "name": "MailboxValidator",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYh70/logo/orig"
+  },
+  {
+    "name": "Mailcheck",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Noh7x/logo/orig"
+  },
+  {
+    "name": "Neverbounce",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehbP/logo/orig"
+  },
+  {
+    "name": "New Relic",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhVQ/logo/orig"
+  },
+  {
+    "name": "ngrok",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhANj/logo/orig"
+  },
+  {
+    "name": "Ninox",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhdG/logo/orig"
+  },
+  {
+    "name": "nocodb",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhK0/logo/orig"
+  },
+  {
+    "name": "OCRSpace",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zhQ7/logo/orig"
+  },
+  {
+    "name": "OpenGraph.io",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhKY/logo/orig"
+  },
+  {
+    "name": "Opsgenie",
+    "date": "15/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGeh3b/logo/orig"
+  },
+  {
+    "name": "PagerDuty",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhdo/logo/orig"
+  },
+  {
+    "name": "ParseHub",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhBG/logo/orig"
+  },
+  {
+    "name": "pCloud",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hP8/logo/orig"
+  },
+  {
+    "name": "Phantombuster",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dhk7/logo/orig"
+  },
+  {
+    "name": "Pingdom",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7LhwA/logo/orig"
+  },
+  {
+    "name": "ProdPad",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhxK/logo/orig"
+  },
+  {
+    "name": "Quickbase",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhRQ/logo/orig"
+  },
+  {
+    "name": "Readwise",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhdW/logo/orig"
+  },
+  {
+    "name": "RenderForm",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMnb/logo/orig"
+  },
+  {
+    "name": "Reverse Contact",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhYd/logo/orig"
+  },
+  {
+    "name": "Rollbar",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArh8K/logo/orig"
+  },
+  {
+    "name": "Testmo",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhg5/logo/orig"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Kvhprv/logo/orig"
+  },
+  {
+    "name": "Gami5d",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh07Q/logo/orig"
+  },
+  {
+    "name": "Invidious",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_P6hV9L/logo/orig"
+  },
+  {
+    "name": "JW Player",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_7LhozB/logo/orig"
+  },
+  {
+    "name": "Listen Notes",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zhbg/logo/orig"
+  },
+  {
+    "name": "Memix",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8PhDy/logo/orig"
+  },
+  {
+    "name": "MobyGames",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvwD/logo/orig"
+  },
+  {
+    "name": "Mux",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8Ph5w/logo/orig"
+  },
+  {
+    "name": "Pocket",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhyd/logo/orig"
+  },
+  {
+    "name": "RSS",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hdV/logo/orig"
+  },
+  {
+    "name": "SpiritMe",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_68hvlD/logo/orig"
+  },
+  {
+    "name": "Spoonacular",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhBD/logo/orig"
+  },
+  {
+    "name": "Spotify",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqeh75/logo/orig"
+  },
+  {
+    "name": "Strava",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvh3R/logo/orig"
+  },
+  {
+    "name": "The Odds API",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEhePY/logo/orig"
+  },
+  {
+    "name": "Twitch",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhDk/logo/orig"
+  },
+  {
+    "name": "Adobe PDF Services",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h94z/logo/orig"
+  },
+  {
+    "name": "APITemplate.io",
+    "date": "16/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhZK/logo/orig"
+  },
+  {
+    "name": "Are.na",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvpJ/logo/orig"
+  },
+  {
+    "name": "Bannerbear",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6hw8/logo/orig"
+  },
+  {
+    "name": "Bitport",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh93P/logo/orig"
+  },
+  {
+    "name": "Box",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1RphyX/logo/orig"
+  },
+  {
+    "name": "Cincopa",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhWy/logo/orig"
+  },
+  {
+    "name": "Content Snare",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_2Rh6Z3/logo/orig"
+  },
+  {
+    "name": "ConvertAPI",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohGb/logo/orig"
+  },
+  {
+    "name": "Crove",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhxQ/logo/orig"
+  },
+  {
+    "name": "Docnify",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hxYz/logo/orig"
+  },
+  {
+    "name": "DocuGenerate",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ArhjDl/logo/orig"
+  },
+  {
+    "name": "Documenso",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphvld/logo/orig"
+  },
+  {
+    "name": "Document360",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hW0/logo/orig"
+  },
+  {
+    "name": "DocumentPro",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxdW/logo/orig"
+  },
+  {
+    "name": "Docupilot",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhNG/logo/orig"
+  },
+  {
+    "name": "Docusign",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hLb/logo/orig"
+  },
+  {
+    "name": "Dropbox",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehk1/logo/orig"
+  },
+  {
+    "name": "Dropmark",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhne/logo/orig"
+  },
+  {
+    "name": "Egnyte",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgYP/logo/orig"
+  },
+  {
+    "name": "eSignatures.io",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEh7b/logo/orig"
+  },
+  {
+    "name": "Evernote",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hGj/logo/orig"
+  },
+  {
+    "name": "Fileforge",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvbJ/logo/orig"
+  },
+  {
+    "name": "Formstack",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhgR/logo/orig"
+  },
+  {
+    "name": "Frame.io",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhxx/logo/orig"
+  },
+  {
+    "name": "Giphy",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhwR/logo/orig"
+  },
+  {
+    "name": "Google Docs",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbh98/logo/orig"
+  },
+  {
+    "name": "Google Drive",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhk1/logo/orig"
+  },
+  {
+    "name": "Google Photos",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBh8Q/logo/orig"
+  },
+  {
+    "name": "Google Slides",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5h5x/logo/orig"
+  },
+  {
+    "name": "HTML/CSS to Image",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKh7A/logo/orig"
+  },
+  {
+    "name": "imgbb",
+    "date": "17/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0hkk/logo/orig"
+  },
+  {
+    "name": "Imgur",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhaz/logo/orig"
+  },
+  {
+    "name": "Microsoft OneDrive",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhWP/logo/orig"
+  },
+  {
+    "name": "Nextcloud",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwkG/logo/orig"
+  },
+  {
+    "name": "ONLYOFFICE DocSpace",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_bPha70/logo/orig"
+  },
+  {
+    "name": "PandaDoc",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1NohDG/logo/orig"
+  },
+  {
+    "name": "PDF-app.net",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbzr/logo/orig"
+  },
+  {
+    "name": "PDF.co",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQh0k/logo/orig"
+  },
+  {
+    "name": "pdfFiller",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hvnj/logo/orig"
+  },
+  {
+    "name": "PDFMonkey",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhbE/logo/orig"
+  },
+  {
+    "name": "Pixelbin",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Kvhp07/logo/orig"
+  },
+  {
+    "name": "Placid",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hpy/logo/orig"
+  },
+  {
+    "name": "PrintAutopilot",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hvDW/logo/orig"
+  },
+  {
+    "name": "PrintNode",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaW7/logo/orig"
+  },
+  {
+    "name": "Remove.bg",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hvk/logo/orig"
+  },
+  {
+    "name": "SFTP (password-based auth)",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhqK/logo/orig"
+  },
+  {
+    "name": "Shotstack",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohE5/logo/orig"
+  },
+  {
+    "name": "signNow",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhBe/logo/orig"
+  },
+  {
+    "name": "Tettra",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hA9/logo/orig"
+  },
+  {
+    "name": "Transistor.fm",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhE8/logo/orig"
+  },
+  {
+    "name": "Bugsnag",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hob/logo/orig"
+  },
+  {
+    "name": "ClickHelp",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Arhjbl/logo/orig"
+  },
+  {
+    "name": "Delighted",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2RhzJ/logo/orig"
+  },
+  {
+    "name": "Elevio",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3Vb/logo/orig"
+  },
+  {
+    "name": "Freshdesk",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Nohev/logo/orig"
+  },
+  {
+    "name": "Freshservice",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhra/logo/orig"
+  },
+  {
+    "name": "Help Scout",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhwz/logo/orig"
+  },
+  {
+    "name": "Helpspace",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhDE/logo/orig"
+  },
+  {
+    "name": "HelpSpot",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh73d/logo/orig"
+  },
+  {
+    "name": "Honeybadger",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Okrhoy/logo/orig"
+  },
+  {
+    "name": "IP2WHOIS",
+    "date": "18/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhaj/logo/orig"
+  },
+  {
+    "name": "LiveAgent",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hKr/logo/orig"
+  },
+  {
+    "name": "Mojo Helpdesk",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8Ph4N/logo/orig"
+  },
+  {
+    "name": "Plain",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hJP/logo/orig"
+  },
+  {
+    "name": "Snappy",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hR8/logo/orig"
+  },
+  {
+    "name": "Trengo",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5ghZv/logo/orig"
+  },
+  {
+    "name": "15Five",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8Phoe/logo/orig"
+  },
+  {
+    "name": "BambooHR",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhZw/logo/orig"
+  },
+  {
+    "name": "Breathe",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hv3g/logo/orig"
+  },
+  {
+    "name": "Brillium",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVE6/logo/orig"
+  },
+  {
+    "name": "CATS",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxbG/logo/orig"
+  },
+  {
+    "name": "ChartHop",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPQ0/logo/orig"
+  },
+  {
+    "name": "Convenia",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhoZ/logo/orig"
+  },
+  {
+    "name": "Dropboard",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2kk/logo/orig"
+  },
+  {
+    "name": "Envoy",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehpB/logo/orig"
+  },
+  {
+    "name": "Firefish",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_68hvkg/logo/orig"
+  },
+  {
+    "name": "Gem",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hve7/logo/orig"
+  },
+  {
+    "name": "Greenhouse",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhV7/logo/orig"
+  },
+  {
+    "name": "Homerun",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2yx/logo/orig"
+  },
+  {
+    "name": "HR Cloud",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_GehpGn/logo/orig"
+  },
+  {
+    "name": "IntelliHR",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRq2/logo/orig"
+  },
+  {
+    "name": "Interseller",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhaL/logo/orig"
+  },
+  {
+    "name": "Kenjo",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAKw/logo/orig"
+  },
+  {
+    "name": "Namely",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhx7/logo/orig"
+  },
+  {
+    "name": "Niceboard",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6h9R/logo/orig"
+  },
+  {
+    "name": "Onbee.app",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpD7/logo/orig"
+  },
+  {
+    "name": "Personio",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghA3W/logo/orig"
+  },
+  {
+    "name": "Recruitis",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgwM/logo/orig"
+  },
+  {
+    "name": "SproutGigs",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPh5Q/logo/orig"
+  },
+  {
+    "name": "Taleez",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_2Rh6xY/logo/orig"
+  },
+  {
+    "name": "Trestle",
+    "date": "19/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhEj/logo/orig"
+  },
+  {
+    "name": "Abstract - Email Verification API",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hvBA/logo/orig"
+  },
+  {
+    "name": "AddressZen",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVoe/logo/orig"
+  },
+  {
+    "name": "Airbyte",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2zA/logo/orig"
+  },
+  {
+    "name": "AnonyFlow",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEhe0r/logo/orig"
+  },
+  {
+    "name": "AWS",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hD1/logo/orig"
+  },
+  {
+    "name": "Azure Storage",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hx2W/logo/orig"
+  },
+  {
+    "name": "Beaconchain",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9K5/logo/orig"
+  },
+  {
+    "name": "BuildKite",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohL0/logo/orig"
+  },
+  {
+    "name": "ByteNite",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMwo/logo/orig"
+  },
+  {
+    "name": "Cisco Meraki",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehJj/logo/orig"
+  },
+  {
+    "name": "CloudTables",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hYq/logo/orig"
+  },
+  {
+    "name": "CodeScene",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghApB/logo/orig"
+  },
+  {
+    "name": "Concord",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehYN/logo/orig"
+  },
+  {
+    "name": "dbt Cloud",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0PB/logo/orig"
+  },
+  {
+    "name": "Defastra",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0haV/logo/orig"
+  },
+  {
+    "name": "DigitalOcean",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hxD/logo/orig"
+  },
+  {
+    "name": "DNSFilter",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbA9/logo/orig"
+  },
+  {
+    "name": "Encodian",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_P6hVYk/logo/orig"
+  },
+  {
+    "name": "Enedis Data-Connect",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhwZ/logo/orig"
+  },
+  {
+    "name": "Fly.io",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9xo/logo/orig"
+  },
+  {
+    "name": "Google Cloud",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mvNhoj/logo/orig"
+  },
+  {
+    "name": "Google Dialogflow",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5haV/logo/orig"
+  },
+  {
+    "name": "Google Directory",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhDZ/logo/orig"
+  },
+  {
+    "name": "Google Safe Browsing",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhPK/logo/orig"
+  },
+  {
+    "name": "GorillaStack",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xywh0q/logo/orig"
+  },
+  {
+    "name": "Helper Functions",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5h3W/logo/orig"
+  },
+  {
+    "name": "HTTP / Webhook",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7LhNG/logo/orig"
+  },
+  {
+    "name": "InfluxDB Cloud",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhGy/logo/orig"
+  },
+  {
+    "name": "Interzoid",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhe9/logo/orig"
+  },
+  {
+    "name": "ipbase",
+    "date": "20/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWh3G/logo/orig"
+  },
+  {
+    "name": "ipdata.co",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhoX/logo/orig"
+  },
+  {
+    "name": "Kaleido",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh09M/logo/orig"
+  },
+  {
+    "name": "Keycloak",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhdYq/logo/orig"
+  },
+  {
+    "name": "KVdb",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhP1/logo/orig"
+  },
+  {
+    "name": "LinearB",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbQ9/logo/orig"
+  },
+  {
+    "name": "ncScale",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh94w/logo/orig"
+  },
+  {
+    "name": "Neo4j AuraDB",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwrQ/logo/orig"
+  },
+  {
+    "name": "Northflank",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvn5/logo/orig"
+  },
+  {
+    "name": "OneLogin",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7Ze/logo/orig"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hboQ/logo/orig"
+  },
+  {
+    "name": "Outscraper",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehM2/logo/orig"
+  },
+  {
+    "name": "Oxylabs",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hMZ/logo/orig"
+  },
+  {
+    "name": "Pipedream Utils",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGPq/logo/orig"
+  },
+  {
+    "name": "Qdrant",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh35W/logo/orig"
+  },
+  {
+    "name": "Rapid URL Indexer",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2wB/logo/orig"
+  },
+  {
+    "name": "Replicate",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5gh9l/logo/orig"
+  },
+  {
+    "name": "Rockset",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hPM/logo/orig"
+  },
+  {
+    "name": "Splunk HTTP Event Collector",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEheyk/logo/orig"
+  },
+  {
+    "name": "SSH (key-based auth)",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hLr/logo/orig"
+  },
+  {
+    "name": "Terraform",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hno/logo/orig"
+  },
+  {
+    "name": "Codeq Natural Language Processing API",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hNe/logo/orig"
+  },
+  {
+    "name": "Free Dictionary",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhJW/logo/orig"
+  },
+  {
+    "name": "Gladia",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hxBb/logo/orig"
+  },
+  {
+    "name": "Google Cloud Translate",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2Rhal/logo/orig"
+  },
+  {
+    "name": "Happy Scribe",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mvNhxw/logo/orig"
+  },
+  {
+    "name": "Lettria",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hd2/logo/orig"
+  },
+  {
+    "name": "Linguapop",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0Vk/logo/orig"
+  },
+  {
+    "name": "Lokalise",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_68hvEp/logo/orig"
+  },
+  {
+    "name": "Rev",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m5ghk6/logo/orig"
+  },
+  {
+    "name": "Transifex",
+    "date": "21/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7jy/logo/orig"
+  },
+  {
+    "name": "Accredible",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNhAL/logo/orig"
+  },
+  {
+    "name": "Autodesk",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0we/logo/orig"
+  },
+  {
+    "name": "Certifier",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_P6hVnB/logo/orig"
+  },
+  {
+    "name": "Coassemble",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zhK8/logo/orig"
+  },
+  {
+    "name": "Freshlearn",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hbP/logo/orig"
+  },
+  {
+    "name": "Google Classroom",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehxa/logo/orig"
+  },
+  {
+    "name": "InfoLobby",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhw55/logo/orig"
+  },
+  {
+    "name": "iSpring Learn",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRnq/logo/orig"
+  },
+  {
+    "name": "Knorish",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ArhjnL/logo/orig"
+  },
+  {
+    "name": "L2S",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGwa/logo/orig"
+  },
+  {
+    "name": "LearnWorlds",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhWK/logo/orig"
+  },
+  {
+    "name": "LightSpeed VT",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hGV/logo/orig"
+  },
+  {
+    "name": "Miestro",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5h80/logo/orig"
+  },
+  {
+    "name": "Navigatr",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRxV/logo/orig"
+  },
+  {
+    "name": "Paradym",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwYg/logo/orig"
+  },
+  {
+    "name": "Rise",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dhEG/logo/orig"
+  },
+  {
+    "name": "Roam Research",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGLa/logo/orig"
+  },
+  {
+    "name": "Teach 'n Go",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEhebg/logo/orig"
+  },
+  {
+    "name": "360NRS",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhw6L/logo/orig"
+  },
+  {
+    "name": "Abyssale",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hMV/logo/orig"
+  },
+  {
+    "name": "ActiveCampaign",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhQA/logo/orig"
+  },
+  {
+    "name": "AcyMailing",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Gehpwv/logo/orig"
+  },
+  {
+    "name": "Adhook",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwD5/logo/orig"
+  },
+  {
+    "name": "Adrapid",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hv6w/logo/orig"
+  },
+  {
+    "name": "AdRoll",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbhAG/logo/orig"
+  },
+  {
+    "name": "AppsFlyer",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMvL/logo/orig"
+  },
+  {
+    "name": "AWeber",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehBP/logo/orig"
+  },
+  {
+    "name": "Beehiiv",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zhMZ/logo/orig"
+  },
+  {
+    "name": "BigMailer",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168had/logo/orig"
+  },
+  {
+    "name": "Bitly",
+    "date": "22/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhNX/logo/orig"
+  },
+  {
+    "name": "BuySellAds",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_P6hVx5/logo/orig"
+  },
+  {
+    "name": "CallPage",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hak/logo/orig"
+  },
+  {
+    "name": "Campaign Monitor",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3Nb/logo/orig"
+  },
+  {
+    "name": "Campayn",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hLo/logo/orig"
+  },
+  {
+    "name": "ClickFunnels",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhRK/logo/orig"
+  },
+  {
+    "name": "Cloud Convert",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hnv/logo/orig"
+  },
+  {
+    "name": "Cometly",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgGE/logo/orig"
+  },
+  {
+    "name": "ConvertKit",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehja/logo/orig"
+  },
+  {
+    "name": "CUFinder",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVKp/logo/orig"
+  },
+  {
+    "name": "Curated",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhVY/logo/orig"
+  },
+  {
+    "name": "Customer.io",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhNK/logo/orig"
+  },
+  {
+    "name": "Demio",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZh7z/logo/orig"
+  },
+  {
+    "name": "Discourse",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Rph7k/logo/orig"
+  },
+  {
+    "name": "DocuPost",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaed/logo/orig"
+  },
+  {
+    "name": "Doppler Marketing Automation",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhgx/logo/orig"
+  },
+  {
+    "name": "Drip",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxh9d/logo/orig"
+  },
+  {
+    "name": "Dux Soup",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbhyz/logo/orig"
+  },
+  {
+    "name": "DynaPictures",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zh7Z/logo/orig"
+  },
+  {
+    "name": "EasySendy",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mvNhyD/logo/orig"
+  },
+  {
+    "name": "EchtPost Postcards",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhd33/logo/orig"
+  },
+  {
+    "name": "Ecologi",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhxb/logo/orig"
+  },
+  {
+    "name": "Elastic Email",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7LhML/logo/orig"
+  },
+  {
+    "name": "Emailable",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhdd/logo/orig"
+  },
+  {
+    "name": "EmailListVerify",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hM3K/logo/orig"
+  },
+  {
+    "name": "Emailoctopus",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPh23/logo/orig"
+  },
+  {
+    "name": "Engage",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0h9n/logo/orig"
+  },
+  {
+    "name": "eSputnik",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3h5Y/logo/orig"
+  },
+  {
+    "name": "Eventbrite",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hjk/logo/orig"
+  },
+  {
+    "name": "Facebook Pages",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2RhyX/logo/orig"
+  },
+  {
+    "name": "Figma",
+    "date": "23/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhRR/logo/orig"
+  },
+  {
+    "name": "Flexmail",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvD6/logo/orig"
+  },
+  {
+    "name": "FlippingBook",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h9eV/logo/orig"
+  },
+  {
+    "name": "Freshmarketer",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhlW/logo/orig"
+  },
+  {
+    "name": "Front",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1NohJg/logo/orig"
+  },
+  {
+    "name": "FullEnrich",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Arhjkz/logo/orig"
+  },
+  {
+    "name": "GetResponse",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnhqy/logo/orig"
+  },
+  {
+    "name": "Gist",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Okrhn8/logo/orig"
+  },
+  {
+    "name": "Goodbits",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhVB/logo/orig"
+  },
+  {
+    "name": "Google Ad Manager",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDN4/logo/orig"
+  },
+  {
+    "name": "GoZen Growth",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_8PhqRJ/logo/orig"
+  },
+  {
+    "name": "HeroBot Chatbot Marketing",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2q7/logo/orig"
+  },
+  {
+    "name": "Hippo Video",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hJ9/logo/orig"
+  },
+  {
+    "name": "HypeAuditor",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_RphvbQ/logo/orig"
+  },
+  {
+    "name": "Hyperise",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhB8/logo/orig"
+  },
+  {
+    "name": "iContact",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hWq/logo/orig"
+  },
+  {
+    "name": "Inksprout",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhlb/logo/orig"
+  },
+  {
+    "name": "Instantly",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLha2z/logo/orig"
+  },
+  {
+    "name": "Keap (Infusionsoft)",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hYG/logo/orig"
+  },
+  {
+    "name": "Klaviyo",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X2Rhjl/logo/orig"
+  },
+  {
+    "name": "Klenty",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohGV/logo/orig"
+  },
+  {
+    "name": "Laposta",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhrd/logo/orig"
+  },
+  {
+    "name": "Lawmatics",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhzQ/logo/orig"
+  },
+  {
+    "name": "Leadzen.ai",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhanV/logo/orig"
+  },
+  {
+    "name": "lemlist",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhnN/logo/orig"
+  },
+  {
+    "name": "Letterdrop",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhYB/logo/orig"
+  },
+  {
+    "name": "LinkedIn",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhRX/logo/orig"
+  },
+  {
+    "name": "listmonk",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAB2/logo/orig"
+  },
+  {
+    "name": "Loopify",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hx6B/logo/orig"
+  },
+  {
+    "name": "MailBlaze",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2bk/logo/orig"
+  },
+  {
+    "name": "Mailbluster",
+    "date": "24/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xoheE/logo/orig"
+  },
+  {
+    "name": "Mailchimp",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7h2q/logo/orig"
+  },
+  {
+    "name": "Mailercloud",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhw6G/logo/orig"
+  },
+  {
+    "name": "Mailerlite",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hw5/logo/orig"
+  },
+  {
+    "name": "Mailersend",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZh3B/logo/orig"
+  },
+  {
+    "name": "Mailgun",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6hVZ/logo/orig"
+  },
+  {
+    "name": "Mailjet",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhkq/logo/orig"
+  },
+  {
+    "name": "Mailmodo",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehx0/logo/orig"
+  },
+  {
+    "name": "Mailwizz",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhrJ/logo/orig"
+  },
+  {
+    "name": "Mandrill",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehAz/logo/orig"
+  },
+  {
+    "name": "Mastodon",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hVd/logo/orig"
+  },
+  {
+    "name": "Mautic",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArh0E/logo/orig"
+  },
+  {
+    "name": "Moosend",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hPL/logo/orig"
+  },
+  {
+    "name": "Nexweave",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hJL/logo/orig"
+  },
+  {
+    "name": "NiftyImages",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7ho0/logo/orig"
+  },
+  {
+    "name": "Noticeable",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxh2L/logo/orig"
+  },
+  {
+    "name": "Orbit",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhMn/logo/orig"
+  },
+  {
+    "name": "Outreach",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhL8/logo/orig"
+  },
+  {
+    "name": "Peach",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgeJ/logo/orig"
+  },
+  {
+    "name": "PersistIQ",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1RphGg/logo/orig"
+  },
+  {
+    "name": "Pointagram",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvh2y/logo/orig"
+  },
+  {
+    "name": "Postalytics",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnhz2/logo/orig"
+  },
+  {
+    "name": "Postmark",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhDV/logo/orig"
+  },
+  {
+    "name": "Proofly",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhEj/logo/orig"
+  },
+  {
+    "name": "ReachMail",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1P6h5d/logo/orig"
+  },
+  {
+    "name": "Rebrandly",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhbp/logo/orig"
+  },
+  {
+    "name": "Reddit",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7hbd/logo/orig"
+  },
+  {
+    "name": "ReferralHero",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAZj/logo/orig"
+  },
+  {
+    "name": "Referrizer",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hxkY/logo/orig"
+  },
+  {
+    "name": "Rejoiner",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpLW/logo/orig"
+  },
+  {
+    "name": "Reply.io",
+    "date": "25/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnha5/logo/orig"
+  },
+  {
+    "name": "Repuso",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohzP/logo/orig"
+  },
+  {
+    "name": "Sendfox (OAuth)",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7LhYP/logo/orig"
+  },
+  {
+    "name": "SendinBlue",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hBb/logo/orig"
+  },
+  {
+    "name": "Sendoso",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dh7R/logo/orig"
+  },
+  {
+    "name": "SendPulse",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168h70/logo/orig"
+  },
+  {
+    "name": "Short Menu",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_RphvEa/logo/orig"
+  },
+  {
+    "name": "Smaily",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKhpK/logo/orig"
+  },
+  {
+    "name": "Smiirl",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPh4l/logo/orig"
+  },
+  {
+    "name": "Streamlabs",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhZ8/logo/orig"
+  },
+  {
+    "name": "Supportivekoala",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hbz/logo/orig"
+  },
+  {
+    "name": "Thanks.io",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQho5/logo/orig"
+  },
+  {
+    "name": "Twilio SendGrid",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvh3O/logo/orig"
+  },
+  {
+    "name": "actiTIME",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhM9p/logo/orig"
+  },
+  {
+    "name": "Acuity Scheduling",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhMa/logo/orig"
+  },
+  {
+    "name": "Agiled",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnhwZ/logo/orig"
+  },
+  {
+    "name": "Airtable",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhAl/logo/orig"
+  },
+  {
+    "name": "Amara",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hVN/logo/orig"
+  },
+  {
+    "name": "Asana",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhPX/logo/orig"
+  },
+  {
+    "name": "awork",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8PhgV/logo/orig"
+  },
+  {
+    "name": "Basecamp",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0hgm/logo/orig"
+  },
+  {
+    "name": "Beekeeper",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhek/logo/orig"
+  },
+  {
+    "name": "BippyBox",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpB7/logo/orig"
+  },
+  {
+    "name": "Boloforms",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEheYZ/logo/orig"
+  },
+  {
+    "name": "Booqable",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqeh8G/logo/orig"
+  },
+  {
+    "name": "BunnyDoc",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpoN/logo/orig"
+  },
+  {
+    "name": "Calendly",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6h0D/logo/orig"
+  },
+  {
+    "name": "ChatPDF",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hv82/logo/orig"
+  },
+  {
+    "name": "Checkvist",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhzb/logo/orig"
+  },
+  {
+    "name": "ClickUp",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1NohVg/logo/orig"
+  },
+  {
+    "name": "Clockify",
+    "date": "26/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhJz/logo/orig"
+  },
+  {
+    "name": "Coda",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhN1/logo/orig"
+  },
+  {
+    "name": "Cohere",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNh2e/logo/orig"
+  },
+  {
+    "name": "CompanyCam",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhav/logo/orig"
+  },
+  {
+    "name": "Confluence",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dhrm/logo/orig"
+  },
+  {
+    "name": "Cutt.ly",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hA7/logo/orig"
+  },
+  {
+    "name": "DaySchedule",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAaW/logo/orig"
+  },
+  {
+    "name": "Decision Journal",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Kvhpqv/logo/orig"
+  },
+  {
+    "name": "Deputy",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNhW0/logo/orig"
+  },
+  {
+    "name": "DocsAutomator",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvwJ/logo/orig"
+  },
+  {
+    "name": "Documint",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAPV/logo/orig"
+  },
+  {
+    "name": "Dropbox Sign (HelloSign)",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hJ0/logo/orig"
+  },
+  {
+    "name": "Dynalist",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m9zhyD/logo/orig"
+  },
+  {
+    "name": "Everhour",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2h2Q/logo/orig"
+  },
+  {
+    "name": "ezeep Blue",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhJj/logo/orig"
+  },
+  {
+    "name": "Favro",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2h7y/logo/orig"
+  },
+  {
+    "name": "Feedbin",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hl6/logo/orig"
+  },
+  {
+    "name": "Formatting",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xywhwd/logo/orig"
+  },
+  {
+    "name": "GageList",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7VD/logo/orig"
+  },
+  {
+    "name": "GetScreenshot",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhJQ/logo/orig"
+  },
+  {
+    "name": "Gistly",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRJ9/logo/orig"
+  },
+  {
+    "name": "Gloww",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDVB/logo/orig"
+  },
+  {
+    "name": "Google Appsheet",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8PhWw/logo/orig"
+  },
+  {
+    "name": "Google Calendar",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13Gh2V/logo/orig"
+  },
+  {
+    "name": "Google Search Console",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhdV/logo/orig"
+  },
+  {
+    "name": "Google Sheets",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hvn/logo/orig"
+  },
+  {
+    "name": "Google Tasks",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dh2K/logo/orig"
+  },
+  {
+    "name": "Grain",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvrg/logo/orig"
+  },
+  {
+    "name": "Guru",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hYo/logo/orig"
+  },
+  {
+    "name": "Habitica",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7LhD9/logo/orig"
+  },
+  {
+    "name": "Harvest",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dhdr/logo/orig"
+  },
+  {
+    "name": "Heyzine",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Okrhyw/logo/orig"
+  },
+  {
+    "name": "Hive",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hW3/logo/orig"
+  },
+  {
+    "name": "Hubstaff",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGgy/logo/orig"
+  },
+  {
+    "name": "Instapaper",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xywhaw/logo/orig"
+  },
+  {
+    "name": "Jira",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhw1/logo/orig"
+  },
+  {
+    "name": "Kanban Tool",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBh3q/logo/orig"
+  },
+  {
+    "name": "KanbanFlow",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dh4k/logo/orig"
+  },
+  {
+    "name": "Kanbanize",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7Lha4/logo/orig"
+  },
+  {
+    "name": "LastPass Enterprise API",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYh0o/logo/orig"
+  },
+  {
+    "name": "LaunchNotes",
+    "date": "27/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Arhjze/logo/orig"
+  },
+  {
+    "name": "Lessonspace",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvh5x/logo/orig"
+  },
+  {
+    "name": "Linear (API key)",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLh08/logo/orig"
+  },
+  {
+    "name": "Linear (OAuth)",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7Lh0L/logo/orig"
+  },
+  {
+    "name": "Magnetic",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehn8/logo/orig"
+  },
+  {
+    "name": "mails.so",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGYJ/logo/orig"
+  },
+  {
+    "name": "MeisterTask",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hjj/logo/orig"
+  },
+  {
+    "name": "Microsoft To Do",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hx8A/logo/orig"
+  },
+  {
+    "name": "MoDeck",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghgod/logo/orig"
+  },
+  {
+    "name": "Mural",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3GhgKl/logo/orig"
+  },
+  {
+    "name": "MyOTP.App",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAog/logo/orig"
+  },
+  {
+    "name": "Notion",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7Lhxr/logo/orig"
+  },
+  {
+    "name": "OFFLIGHT",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgbl/logo/orig"
+  },
+  {
+    "name": "OneDesk",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1NohN7/logo/orig"
+  },
+  {
+    "name": "Papyrs",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLhew/logo/orig"
+  },
+  {
+    "name": "Paymo",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hoM/logo/orig"
+  },
+  {
+    "name": "Pikaso",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mWnh9Z/logo/orig"
+  },
+  {
+    "name": "Pipefy",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbh7x/logo/orig"
+  },
+  {
+    "name": "Pipeline",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhLG/logo/orig"
+  },
+  {
+    "name": "Pivotal Tracker",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhpA/logo/orig"
+  },
+  {
+    "name": "Podio",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhye/logo/orig"
+  },
+  {
+    "name": "PostGrid Print & Mail",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hAA/logo/orig"
+  },
+  {
+    "name": "Process Street",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1YMhv0/logo/orig"
+  },
+  {
+    "name": "Procore",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohxR/logo/orig"
+  },
+  {
+    "name": "Productboard",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hjx/logo/orig"
+  },
+  {
+    "name": "Productive.io",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1gKheb/logo/orig"
+  },
+  {
+    "name": "Raindrop",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13Gh9n/logo/orig"
+  },
+  {
+    "name": "Range",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPh82/logo/orig"
+  },
+  {
+    "name": "Redmine",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhdo9/logo/orig"
+  },
+  {
+    "name": "Reflect",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMMA/logo/orig"
+  },
+  {
+    "name": "Roll",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhze/logo/orig"
+  },
+  {
+    "name": "Shorten.REST",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mo7hqa/logo/orig"
+  },
+  {
+    "name": "Signaturely",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/scheduled_mcp_servers_with_logos.json/logo/orig"
+  },
+  {
+    "name": "SignerX",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghANr/logo/orig"
+  },
+  {
+    "name": "Smartsheet",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhMq/logo/orig"
+  },
+  {
+    "name": "Specific",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxz2/logo/orig"
+  },
+  {
+    "name": "TimeCamp",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mn5hkN/logo/orig"
+  },
+  {
+    "name": "TinyPNG",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hZe/logo/orig"
+  },
+  {
+    "name": "Toggl Track",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhjJ/logo/orig"
+  },
+  {
+    "name": "Trello",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hnX/logo/orig"
+  },
+  {
+    "name": "Bitdefender GravityZone",
+    "date": "28/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_P6hVry/logo/orig"
+  },
+  {
+    "name": "HackerOne",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7AW/logo/orig"
+  },
+  {
+    "name": "GeoDB Cities",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhAM/logo/orig"
+  },
+  {
+    "name": "Govee",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAvV/logo/orig"
+  },
+  {
+    "name": "Philips Hue",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhb8/logo/orig"
+  },
+  {
+    "name": "Tuya",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Kvhpa0/logo/orig"
+  },
+  {
+    "name": "Bluesky",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Arhj6Q/logo/orig"
+  },
+  {
+    "name": "Airslate",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqJJ/logo/orig"
+  },
+  {
+    "name": "GatherUp",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZh5n/logo/orig"
+  },
+  {
+    "name": "GoCanvas",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7hq8/logo/orig"
+  },
+  {
+    "name": "Google Forms",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mvNh0K/logo/orig"
+  },
+  {
+    "name": "Gravity Forms",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehMb/logo/orig"
+  },
+  {
+    "name": "Jotform",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mqehaz/logo/orig"
+  },
+  {
+    "name": "Kizeo Forms",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDEE/logo/orig"
+  },
+  {
+    "name": "Papersign",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDND/logo/orig"
+  },
+  {
+    "name": "Refiner",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghgvl/logo/orig"
+  },
+  {
+    "name": "RepliQ",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvjR/logo/orig"
+  },
+  {
+    "name": "RiskAdvisor",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh05M/logo/orig"
+  },
+  {
+    "name": "Tally",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hbk/logo/orig"
+  },
+  {
+    "name": "TransForm",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0hw6/logo/orig"
+  },
+  {
+    "name": "Trust",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqVe/logo/orig"
+  },
+  {
+    "name": "DeTrack",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehwJ/logo/orig"
+  },
+  {
+    "name": "ExpoFP",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hR9/logo/orig"
+  },
+  {
+    "name": "Foursquare",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X8PhYX/logo/orig"
+  },
+  {
+    "name": "Google Maps (Places API)",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hyV/logo/orig"
+  },
+  {
+    "name": "Mapbox",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhEZ/logo/orig"
+  },
+  {
+    "name": "OpenWeather API",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hkv/logo/orig"
+  },
+  {
+    "name": "Recreation.gov",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7Lh5J/logo/orig"
+  },
+  {
+    "name": "Tripadvisor (Content API)",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhM5y/logo/orig"
+  },
+  {
+    "name": "0codekit",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDwE/logo/orig"
+  },
+  {
+    "name": "2markdown",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9NP/logo/orig"
+  },
+  {
+    "name": "46elks",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPr8/logo/orig"
+  },
+  {
+    "name": "Ably",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1xohRN/logo/orig"
+  },
+  {
+    "name": "Agility CMS",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h24B/logo/orig"
+  },
+  {
+    "name": "Alpaca",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hrv/logo/orig"
+  },
+  {
+    "name": "Amazon Alexa",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwZN/logo/orig"
+  },
+  {
+    "name": "AMQP",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_13GhqD/logo/orig"
+  },
+  {
+    "name": "AppDrag",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xywh6Q/logo/orig"
+  },
+  {
+    "name": "Appwrite",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0Gk/logo/orig"
+  },
+  {
+    "name": "Autom",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hx5g/logo/orig"
+  },
+  {
+    "name": "Ayrshare",
+    "date": "29/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqGW/logo/orig"
+  },
+  {
+    "name": "Better Stack",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhD87/logo/orig"
+  },
+  {
+    "name": "Blazemeter",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6hMx/logo/orig"
+  },
+  {
+    "name": "Blogger",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhoY/logo/orig"
+  },
+  {
+    "name": "Botpress",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7lK/logo/orig"
+  },
+  {
+    "name": "Brilliant Directories",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgJl/logo/orig"
+  },
+  {
+    "name": "Browserhub",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_GehpbE/logo/orig"
+  },
+  {
+    "name": "change.photos",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEheMw/logo/orig"
+  },
+  {
+    "name": "Clearly Defined",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVDv/logo/orig"
+  },
+  {
+    "name": "Codacy",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7EE/logo/orig"
+  },
+  {
+    "name": "Codemagic",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h236/logo/orig"
+  },
+  {
+    "name": "Contentstack",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_8PhqpM/logo/orig"
+  },
+  {
+    "name": "CraftMyPDF",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYhD9/logo/orig"
+  },
+  {
+    "name": "Dart",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpZa/logo/orig"
+  },
+  {
+    "name": "DataTrails (formerly RKVST)",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhAM0/logo/orig"
+  },
+  {
+    "name": "Diffbot",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XaLh7n/logo/orig"
+  },
+  {
+    "name": "DotSimple",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhM7p/logo/orig"
+  },
+  {
+    "name": "DropInBlog",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_jEhepL/logo/orig"
+  },
+  {
+    "name": "FireCrawl",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqke/logo/orig"
+  },
+  {
+    "name": "FlexiSign",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAJN/logo/orig"
+  },
+  {
+    "name": "Frontegg",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h98j/logo/orig"
+  },
+  {
+    "name": "Geoapify",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hea/logo/orig"
+  },
+  {
+    "name": "Geokeo",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9kW/logo/orig"
+  },
+  {
+    "name": "Ghost.org (Admin API)",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0hq9/logo/orig"
+  },
+  {
+    "name": "Ghost.org (Content API)",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168h90/logo/orig"
+  },
+  {
+    "name": "Google Tag Manager",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hdA/logo/orig"
+  },
+  {
+    "name": "Greptile",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhg9Z/logo/orig"
+  },
+  {
+    "name": "GTmetrix",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XKvhAP/logo/orig"
+  },
+  {
+    "name": "HTML 2 PDF",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7heA/logo/orig"
+  },
+  {
+    "name": "HTML to Image",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwjL/logo/orig"
+  },
+  {
+    "name": "Icypeas",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_pbhA4r/logo/orig"
+  },
+  {
+    "name": "IgniSign",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDvB/logo/orig"
+  },
+  {
+    "name": "Imagior",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0gy/logo/orig"
+  },
+  {
+    "name": "Linkly",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhP7D/logo/orig"
+  },
+  {
+    "name": "Lnk.Bio",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_bPhaEA/logo/orig"
+  },
+  {
+    "name": "Meteomatics Weather API",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h9nV/logo/orig"
+  },
+  {
+    "name": "Miro Developer App",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0hzW/logo/orig"
+  },
+  {
+    "name": "Modelry",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2gl/logo/orig"
+  },
+  {
+    "name": "Netlify",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1w0hvd/logo/orig"
+  },
+  {
+    "name": "NinjaOne",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGeN/logo/orig"
+  },
+  {
+    "name": "Okta",
+    "date": "30/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhgN/logo/orig"
+  },
+  {
+    "name": "Overledger",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMVd/logo/orig"
+  },
+  {
+    "name": "Owl Protocol",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvg3/logo/orig"
+  },
+  {
+    "name": "Parsio.io",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Rph66/logo/orig"
+  },
+  {
+    "name": "PDF Toolkit by CustomJS",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhP66/logo/orig"
+  },
+  {
+    "name": "Piloterr",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghgro/logo/orig"
+  },
+  {
+    "name": "PixieBrix",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_GehpqM/logo/orig"
+  },
+  {
+    "name": "Polygon",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Xe3hdp/logo/orig"
+  },
+  {
+    "name": "Postman",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhj6/logo/orig"
+  },
+  {
+    "name": "Productlane",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2LJ/logo/orig"
+  },
+  {
+    "name": "Push by Techulus",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mLNhPn/logo/orig"
+  },
+  {
+    "name": "Pusher",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_1NohMV/logo/orig"
+  },
+  {
+    "name": "Qntrl",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgJ2/logo/orig"
+  },
+  {
+    "name": "SerpApi",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphv6x/logo/orig"
+  },
+  {
+    "name": "Summit",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hb5l/logo/orig"
+  },
+  {
+    "name": "SwaggerHub",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_mE7h09/logo/orig"
+  },
+  {
+    "name": "Templated",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphv5Z/logo/orig"
+  },
+  {
+    "name": "Tricentis qTest",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaDP/logo/orig"
+  },
+  {
+    "name": "Triggre",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2V5/logo/orig"
+  },
+  {
+    "name": "Turso",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2nl/logo/orig"
+  },
+  {
+    "name": "Acelle Mail",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0vB/logo/orig"
+  },
+  {
+    "name": "Affinda",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwLk/logo/orig"
+  },
+  {
+    "name": "Airmeet",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9lE/logo/orig"
+  },
+  {
+    "name": "Airplane",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh724/logo/orig"
+  },
+  {
+    "name": "AiVOOV",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxZy/logo/orig"
+  },
+  {
+    "name": "AskNicely",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGry/logo/orig"
+  },
+  {
+    "name": "AskYourPDF",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hG0d/logo/orig"
+  },
+  {
+    "name": "AssemblyAI",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3PM/logo/orig"
+  },
+  {
+    "name": "Bloom Growth",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRgb/logo/orig"
+  },
+  {
+    "name": "BotConversa",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvxq/logo/orig"
+  },
+  {
+    "name": "Campaign Cleaner",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_8PhqwE/logo/orig"
+  },
+  {
+    "name": "CampaignHQ",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMRr/logo/orig"
+  },
+  {
+    "name": "Cardly",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMvl/logo/orig"
+  },
+  {
+    "name": "Chatwork",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7dB/logo/orig"
+  },
+  {
+    "name": "Clerk",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhw8k/logo/orig"
+  },
+  {
+    "name": "CleverReach",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3Ghg24/logo/orig"
+  },
+  {
+    "name": "CleverTap",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLha47/logo/orig"
+  },
+  {
+    "name": "Clientify",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Z2hxd5/logo/orig"
+  },
+  {
+    "name": "Constant Contact",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhggK/logo/orig"
+  },
+  {
+    "name": "Copperx",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMeP/logo/orig"
+  },
+  {
+    "name": "Credit Repair Cloud",
+    "date": "31/03/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_bPhaWr/logo/orig"
+  },
+  {
+    "name": "Customer Fields",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhD3L/logo/orig"
+  },
+  {
+    "name": "Daffy",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAVK/logo/orig"
+  },
+  {
+    "name": "DealMachine",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_2Rh6bn/logo/orig"
+  },
+  {
+    "name": "DevRev",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxa3/logo/orig"
+  },
+  {
+    "name": "Dext",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3GM/logo/orig"
+  },
+  {
+    "name": "Diabatix ColdStream",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7BB/logo/orig"
+  },
+  {
+    "name": "DocsBot AI",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhD9J/logo/orig"
+  },
+  {
+    "name": "Docsumo",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7o8/logo/orig"
+  },
+  {
+    "name": "DreamStudio (Stable Diffusion)",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPBq/logo/orig"
+  },
+  {
+    "name": "Dropcontact",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGv5/logo/orig"
+  },
+  {
+    "name": "Dub",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhRqM/logo/orig"
+  },
+  {
+    "name": "Eden AI",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwJA/logo/orig"
+  },
+  {
+    "name": "ElevenLabs",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ArhjdG/logo/orig"
+  },
+  {
+    "name": "Firmao",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLha0J/logo/orig"
+  },
+  {
+    "name": "Formaloo",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh75B/logo/orig"
+  },
+  {
+    "name": "FTrack",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPeN/logo/orig"
+  },
+  {
+    "name": "GetAccept",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_7LhoVz/logo/orig"
+  },
+  {
+    "name": "GetEmails",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhD38/logo/orig"
+  },
+  {
+    "name": "GiantCampaign",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_7LhoKk/logo/orig"
+  },
+  {
+    "name": "Gigasheet",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqag/logo/orig"
+  },
+  {
+    "name": "Goody",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_LNhwoA/logo/orig"
+  },
+  {
+    "name": "Google PaLM",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGG5/logo/orig"
+  },
+  {
+    "name": "Gryd",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgG3/logo/orig"
+  },
+  {
+    "name": "HighLevel (OAuth)",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpjQ/logo/orig"
+  },
+  {
+    "name": "Hookdeck",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_68hv2W/logo/orig"
+  },
+  {
+    "name": "Hootsuite",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh77N/logo/orig"
+  },
+  {
+    "name": "Hostaway",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hv0D/logo/orig"
+  },
+  {
+    "name": "Hotmart",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGly/logo/orig"
+  },
+  {
+    "name": "Hyros",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghAzW/logo/orig"
+  },
+  {
+    "name": "iAuditor by SafetyCulture",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDDn/logo/orig"
+  },
+  {
+    "name": "iLovePDF",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_9zh0Jz/logo/orig"
+  },
+  {
+    "name": "ImageKit.io",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgG2/logo/orig"
+  },
+  {
+    "name": "Infinity",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7A7/logo/orig"
+  },
+  {
+    "name": "Inoreader",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_GehpPR/logo/orig"
+  },
+  {
+    "name": "IP2Location.io",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2a8/logo/orig"
+  },
+  {
+    "name": "Jibble",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hv7o/logo/orig"
+  },
+  {
+    "name": "Judge.me",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ywhgy2/logo/orig"
+  },
+  {
+    "name": "JustCall",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2QW/logo/orig"
+  },
+  {
+    "name": "KickoffLabs",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2jW/logo/orig"
+  },
+  {
+    "name": "KingSumo",
+    "date": "01/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh3pa/logo/orig"
+  },
+  {
+    "name": "Kite Suite",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMR2/logo/orig"
+  },
+  {
+    "name": "Klaxoon",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDAr/logo/orig"
+  },
+  {
+    "name": "Kontent.ai",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaAl/logo/orig"
+  },
+  {
+    "name": "Libraria",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7QN/logo/orig"
+  },
+  {
+    "name": "Listclean",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJqD/logo/orig"
+  },
+  {
+    "name": "Livestorm",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhg0V/logo/orig"
+  },
+  {
+    "name": "LoopMessage",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_D5hMbl/logo/orig"
+  },
+  {
+    "name": "Loops.so",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhP8N/logo/orig"
+  },
+  {
+    "name": "Mapulus",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_ArhjLL/logo/orig"
+  },
+  {
+    "name": "Melo",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_bPhaDy/logo/orig"
+  },
+  {
+    "name": "Memberspot.io",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxPy/logo/orig"
+  },
+  {
+    "name": "Microsoft 365 People",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVYd/logo/orig"
+  },
+  {
+    "name": "Microsoft 365 Planner",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2Q5/logo/orig"
+  },
+  {
+    "name": "Microsoft Entra ID",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_QYhqzg/logo/orig"
+  },
+  {
+    "name": "Microsoft Excel",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDLL/logo/orig"
+  },
+  {
+    "name": "Microsoft OneNote",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxQ6/logo/orig"
+  },
+  {
+    "name": "Microsoft Outlook Calendar",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h9Gg/logo/orig"
+  },
+  {
+    "name": "Microsoft Sharepoint Online",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7q7/logo/orig"
+  },
+  {
+    "name": "Missive",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxa9/logo/orig"
+  },
+  {
+    "name": "Motion",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_8Phq6G/logo/orig"
+  },
+  {
+    "name": "Moxie",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghA2a/logo/orig"
+  },
+  {
+    "name": "Nango",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_xohxL9/logo/orig"
+  },
+  {
+    "name": "Nextdoor Ads",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMJ5/logo/orig"
+  },
+  {
+    "name": "NiftyKit",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_VWhVLL/logo/orig"
+  },
+  {
+    "name": "Nudgify",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Noh9VN/logo/orig"
+  },
+  {
+    "name": "Omnivore",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLha9l/logo/orig"
+  },
+  {
+    "name": "One AI",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_M0hvQD/logo/orig"
+  },
+  {
+    "name": "Open Exchange Rates",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_gKhgRR/logo/orig"
+  },
+  {
+    "name": "Outseta",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphv4M/logo/orig"
+  },
+  {
+    "name": "Payhip",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphve5/logo/orig"
+  },
+  {
+    "name": "Pdfless",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_w0hvaq/logo/orig"
+  },
+  {
+    "name": "PhoneBurner",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_dBhwa5/logo/orig"
+  },
+  {
+    "name": "Piggy",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Bxh30q/logo/orig"
+  },
+  {
+    "name": "PingBell",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpdL/logo/orig"
+  },
+  {
+    "name": "Playwright",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_JQh7o2/logo/orig"
+  },
+  {
+    "name": "PreciseFP",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbDo/logo/orig"
+  },
+  {
+    "name": "Procore Sandbox",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_e3hxWw/logo/orig"
+  },
+  {
+    "name": "Project Broadcast",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhawJ/logo/orig"
+  },
+  {
+    "name": "Puppeteer",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_E7h2Za/logo/orig"
+  },
+  {
+    "name": "Pushcut",
+    "date": "02/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Kvhp3l/logo/orig"
+  },
+  {
+    "name": "Raisely",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMPr/logo/orig"
+  },
+  {
+    "name": "Recruit CRM",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_n5hvn3/logo/orig"
+  },
+  {
+    "name": "Retable",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_3GhgY4/logo/orig"
+  },
+  {
+    "name": "Retently",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_lxhDA8/logo/orig"
+  },
+  {
+    "name": "Retriever",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbKb/logo/orig"
+  },
+  {
+    "name": "Rex",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_KvhpYQ/logo/orig"
+  },
+  {
+    "name": "Ringover",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_YMhJQD/logo/orig"
+  },
+  {
+    "name": "Sellercloud",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_rZhMMe/logo/orig"
+  },
+  {
+    "name": "Senta",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7a7/logo/orig"
+  },
+  {
+    "name": "Sourceforge",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_WnhPpn/logo/orig"
+  },
+  {
+    "name": "SurveySparrow",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hGj5/logo/orig"
+  },
+  {
+    "name": "Teamleader Focus",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_7LhoRE/logo/orig"
+  },
+  {
+    "name": "Teamwork Desk",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_5ghA6K/logo/orig"
+  },
+  {
+    "name": "Tidy",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_4dhd0p/logo/orig"
+  },
+  {
+    "name": "Timeular",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h9wE/logo/orig"
+  },
+  {
+    "name": "TrackingTime",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_z6hG4E/logo/orig"
+  },
+  {
+    "name": "Trakt",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_Rphvvj/logo/orig"
+  },
+  {
+    "name": "Translate.com",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_krhR9p/logo/orig"
+  },
+  {
+    "name": "Unbounce",
+    "date": "03/04/26",
+    "published": false,
+    "logo": "https://assets.pipedream.net/s.v0/app_aLhaaJ/logo/orig"
+  }
+]

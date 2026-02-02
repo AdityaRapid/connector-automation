@@ -1,0 +1,36 @@
+# Environment variables (IMPORTANT: Keep API keys secret!)
+.env
+.env.python
+.env.local
+.env.*.local
+
+# Generated integration pages
+integration-pages/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+
+# Node modules (if you add dependencies later)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
