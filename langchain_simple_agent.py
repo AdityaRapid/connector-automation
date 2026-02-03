@@ -144,7 +144,30 @@ Common automation workflows include:
 * [Benefit]: [Qualitative outcome without percentages].
 
 [Security and Permissions]
-Ruh AI [prioritizes/utilizes] [security approach]. The integration respects all existing {integration_name} permissions. OAuth 2.0 authentication ensures only authorized users can access or modify data.
+Write a comprehensive, detailed security section (3-4 paragraphs) without bold headers. Cover these topics naturally:
+
+Paragraph 1 - Authentication & Authorization: Describe the authentication method (OAuth 2.0, API keys, SSO, etc.) and how Ruh AI securely connects to {integration_name}. Explain how user permissions are inherited and respected from {integration_name}.
+
+Paragraph 2 - Data Protection: Detail how data is protected in transit (encryption protocols) and at rest. Mention specific security standards or compliance frameworks if relevant to {integration_name} (SOC 2, GDPR, HIPAA, etc.).
+
+Paragraph 3 - Access Control & Monitoring: Explain role-based access control, audit logging capabilities, and how administrators can monitor integration activity. Mention any data residency options or privacy controls.
+
+Paragraph 4 - Security Best Practices: Include specific security features of {integration_name} that are maintained through the integration, such as two-factor authentication support, IP whitelisting, or data retention policies.
+
+Write as flowing paragraphs without section headers or bold labels. Make this section genuine and specific to {integration_name} based on the factual research. Avoid generic statements.
+
+[FAQs]
+Generate 5-6 genuine, specific FAQs about this integration. Base questions on:
+- Common user concerns about {integration_name}
+- Specific features mentioned in factual research
+- Integration setup and configuration
+- Data sync and automation capabilities
+- Security and permissions
+- Pricing or usage questions
+
+Format each FAQ as:
+Q: [Specific question about {integration_name} integration]
+A: [Detailed, helpful answer based on factual research]
 
 EXAMPLE (HubSpot with Labeled Format):
 
@@ -178,7 +201,32 @@ Common automation workflows include:
 * Leadership Visibility: Provide accurate reporting without asking reps to update records.
 
 [Security and Permissions]
-Ruh AI prioritizes data governance. The integration respects all existing HubSpot permissions. OAuth 2.0 authentication ensures only authorized users can access or modify data.
+Ruh AI establishes secure connections to HubSpot through OAuth 2.0 authentication, ensuring that only authorized team members can access or modify CRM data. The integration inherits all existing HubSpot permission structures, meaning users can only interact with contacts, deals, and properties they're already authorized to view within HubSpot's native environment.
+
+All data transmitted between Ruh AI and HubSpot is encrypted using TLS 1.2 or higher, protecting sensitive customer information during sync operations. The integration maintains compliance with SOC 2 Type II standards and GDPR requirements, with data processing agreements available to ensure your customer data handling meets regulatory obligations.
+
+Administrators retain full control over integration access through HubSpot's role-based permission system. You can configure which Ruh AI users have read-only versus read-write access to specific HubSpot objects, pipelines, and custom properties. All integration activities are logged in HubSpot's audit trail, providing complete visibility into data modifications and API calls made by Ruh AI.
+
+The integration supports HubSpot's advanced security features, including IP whitelisting for API access, two-factor authentication requirements for connected users, and automatic session timeout policies. Data residency options align with HubSpot's infrastructure, ensuring customer information remains within your specified geographic regions to meet local data protection requirements.
+
+[FAQs]
+Q: How does Ruh AI sync data with HubSpot?
+A: Ruh AI uses bi-directional sync to automatically update HubSpot contacts, deals, and activities in real-time. When your AI SDR engages with prospects, all interactions are logged directly to the relevant HubSpot records without manual entry.
+
+Q: Can I control which HubSpot data Ruh AI can access?
+A: Yes, the integration respects all existing HubSpot permission settings. You can configure which objects, properties, and pipelines Ruh AI can read or write to based on your team's access levels.
+
+Q: Does Ruh AI create duplicate contacts in HubSpot?
+A: No, Ruh AI uses intelligent matching to identify existing contacts before creating new ones. It checks email addresses and other unique identifiers to prevent duplicates in your CRM.
+
+Q: How quickly do changes sync between Ruh AI and HubSpot?
+A: Changes sync in real-time. When a meeting is booked or a prospect replies, the update appears in HubSpot within seconds, ensuring your team always has the latest information.
+
+Q: What happens if HubSpot is temporarily unavailable?
+A: Ruh AI queues any pending updates and automatically syncs them once HubSpot is accessible again. No data is lost during temporary outages.
+
+Q: Can I customize which HubSpot fields Ruh AI updates?
+A: Yes, you can map specific Ruh AI data to custom HubSpot properties and configure which fields should be updated automatically versus requiring manual approval.
 
 Now generate the page for {integration_name}. Output ONLY the labeled content, no explanations."""
 

@@ -34,7 +34,8 @@ class StrapiContentParser:
         capabilities = StrapiContentParser._extract_section(content, r'\[Core Capabilities\]\s*\n(.+?)(?:\n\n|\n\[)', multiline=True)
         workflows = StrapiContentParser._extract_section(content, r'\[Common Automation Workflows\]\s*\n(.+?)(?:\n\n|\n\[)', multiline=True)
         benefits = StrapiContentParser._extract_section(content, r'\[Key Benefits\]\s*\n(.+?)(?:\n\n|\n\[)', multiline=True)
-        security = StrapiContentParser._extract_section(content, r'\[Security and Permissions\]\s*\n(.+?)$', multiline=True)
+        security = StrapiContentParser._extract_section(content, r'\[Security and Permissions\]\s*\n(.+?)(?:\n\n|\n\[)', multiline=True)
+        faqs_text = StrapiContentParser._extract_section(content, r'\[FAQs\]\s*\n(.+?)$', multiline=True)
 
         # Build full HTML content
         html_content = StrapiContentParser._build_html_content(
@@ -52,6 +53,12 @@ class StrapiContentParser:
         # Extract keywords from title and content
         keywords = StrapiContentParser._extract_keywords(title, one_liner, overview)
 
+        # Parse FAQs from generated content, or use fallback
+        faqs = StrapiContentParser._parse_faqs(faqs_text)
+        if not faqs or len(faqs) < 3:
+            # Use fallback FAQs if parsing failed or too few FAQs
+            faqs = StrapiContentParser._generate_faqs(connector_name, capabilities, workflows)
+
         # Build Strapi API payload matching user's exact JSON structure
         strapi_data = {
             "name": connector_name,
@@ -60,20 +67,7 @@ class StrapiContentParser:
             "slug": slug,
             "icon": logo_url,
             "content": html_content,
-            "faqs": [
-                {
-                    "question": f"What is {connector_name} integration with Ruh AI?",
-                    "answer": f"{connector_name} integration with Ruh AI enables seamless automation and data synchronization between {connector_name} and your enterprise systems."
-                },
-                {
-                    "question": f"How does {connector_name} integration work?",
-                    "answer": "The integration uses bi-directional data flow to automatically sync information between systems, reducing manual entry and improving accuracy."
-                },
-                {
-                    "question": "Is the integration secure?",
-                    "answer": "Yes, all data transfers are encrypted in transit and at rest, with SOC 2 Type II compliance and GDPR readiness built-in."
-                }
-            ],
+            "faqs": faqs,
             "seo": {
                 "metaTitle": (title or f"{connector_name} Integration - Ruh AI")[:60],  # Max 60 chars
                 "metaDescription": (one_liner or f"Integrate {connector_name} with Ruh AI for intelligent automation and seamless workflows.")[:160],  # Max 160 chars
@@ -120,15 +114,12 @@ class StrapiContentParser:
 
     @staticmethod
     def _build_html_content(title, one_liner, overview, capabilities, workflows, benefits, security) -> str:
-        """Build full HTML content from sections"""
+        """Build full HTML content from sections (excluding title and one-liner to avoid duplication)"""
         html_parts = []
 
-        if title:
-            html_parts.append(f"<h1>{title}</h1>")
-        
-        if one_liner:
-            html_parts.append(f"<p class='lead'>{one_liner}</p>")
-        
+        # Skip title and one_liner as they're sent separately in heroTitle and description
+        # Start content from Overview section
+
         if overview:
             html_parts.append(f"<h2>Overview</h2><p>{overview}</p>")
         
@@ -195,8 +186,39 @@ class StrapiContentParser:
         return ', '.join(sorted(keywords)[:15])  # Limit to 15 keywords
 
     @staticmethod
+    def _parse_faqs(faqs_text: str) -> List[Dict[str, str]]:
+        """Parse FAQs from generated content"""
+        faqs = []
+
+        if not faqs_text:
+            return faqs
+
+        # Split by Q: to find individual FAQs
+        faq_blocks = re.split(r'\n(?=Q:)', faqs_text.strip())
+
+        for block in faq_blocks:
+            block = block.strip()
+            if not block:
+                continue
+
+            # Extract question and answer
+            q_match = re.search(r'Q:\s*(.+?)(?=\nA:)', block, re.DOTALL)
+            a_match = re.search(r'A:\s*(.+?)$', block, re.DOTALL)
+
+            if q_match and a_match:
+                question = q_match.group(1).strip()
+                answer = a_match.group(1).strip()
+
+                faqs.append({
+                    "question": question,
+                    "answer": answer
+                })
+
+        return faqs
+
+    @staticmethod
     def _generate_faqs(connector_name: str, capabilities: str, workflows: str) -> List[Dict[str, str]]:
-        """Generate FAQ entries from content"""
+        """Generate fallback FAQ entries if none were extracted from content"""
         faqs = [
             {
                 "question": f"What is {connector_name} integration with Ruh AI?",
@@ -208,10 +230,18 @@ class StrapiContentParser:
             },
             {
                 "question": "Is the integration secure?",
-                "answer": "Yes, all data transfers are encrypted in transit and at rest, with SOC 2 Type II compliance and GDPR readiness built-in."
+                "answer": "Yes, all data transfers are encrypted in transit and at rest, with OAuth 2.0 authentication ensuring only authorized users can access or modify data."
+            },
+            {
+                "question": f"Can I customize the {connector_name} integration?",
+                "answer": "Yes, you can configure which data fields sync, set up custom automation workflows, and control permissions based on your team's needs."
+            },
+            {
+                "question": f"How quickly does data sync between Ruh AI and {connector_name}?",
+                "answer": "Data syncs in real-time, ensuring your team always has the most up-to-date information across both platforms."
             }
         ]
-        
+
         return faqs
 
 

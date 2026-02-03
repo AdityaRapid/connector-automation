@@ -1,5 +1,215 @@
 [
   {
+    "name": "HubSpot",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhlP/logo/orig"
+  },
+  {
+    "name": "Pipedrive",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhdk/logo/orig"
+  },
+  {
+    "name": "Calendly",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_Oz6h0D/logo/orig"
+  },
+  {
+    "name": "Google Calendar",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_13Gh2V/logo/orig"
+  },
+  {
+    "name": "Gmail",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_OQYhq7/logo/orig"
+  },
+  {
+    "name": "Microsoft Outlook",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_XbPhEP/logo/orig"
+  },
+  {
+    "name": "Microsoft Outlook Calendar",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_02h9Gg/logo/orig"
+  },
+  {
+    "name": "LinkedIn",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1dBhRX/logo/orig"
+  },
+  {
+    "name": "GitHub",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_OrZhaO/logo/orig"
+  },
+  {
+    "name": "GitLab",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hw1/logo/orig"
+  },
+  {
+    "name": "Box",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1RphyX/logo/orig"
+  },
+  {
+    "name": "Dropbox",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_XGehk1/logo/orig"
+  },
+  {
+    "name": "Google Drive",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1lxhk1/logo/orig"
+  },
+  {
+    "name": "Microsoft OneDrive",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_mjEhWP/logo/orig"
+  },
+  {
+    "name": "Microsoft Sharepoint Online",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7q7/logo/orig"
+  },
+  {
+    "name": "Okta",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_XywhgN/logo/orig"
+  },
+  {
+    "name": "Notion",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_X7Lhxr/logo/orig"
+  },
+  {
+    "name": "Confluence",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_m4dhrm/logo/orig"
+  },
+  {
+    "name": "Asana",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_OVWhPX/logo/orig"
+  },
+  {
+    "name": "ClickUp",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1NohVg/logo/orig"
+  },
+  {
+    "name": "Jira",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_mArhw1/logo/orig"
+  },
+  {
+    "name": "LinearB",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_o7hbQ9/logo/orig"
+  },
+  {
+    "name": "Microsoft 365 Planner",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_vNh2Q5/logo/orig"
+  },
+  {
+    "name": "Trello",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hnX/logo/orig"
+  },
+  {
+    "name": "Monday.com",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "/assets/images/Integrations/logosConnector/monday.svg"
+  },
+  {
+    "name": "Freshdesk",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1Nohev/logo/orig"
+  },
+  {
+    "name": "Freshservice",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_mJQhra/logo/orig"
+  },
+  {
+    "name": "Intercom",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1pbh0B/logo/orig"
+  },
+  {
+    "name": "QuickBooks",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_m02hWG/logo/orig"
+  },
+  {
+    "name": "Shopify",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_qeh7a4/logo/orig"
+  },
+  {
+    "name": "Stripe",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_OD5hrX/logo/orig"
+  },
+  {
+    "name": "Microsoft Teams",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_1M0hlk/logo/orig"
+  },
+  {
+    "name": "Slack",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_OkrhR1/logo/orig"
+  },
+  {
+    "name": "Airtable",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_XBxhAl/logo/orig"
+  },
+  {
+    "name": "Google Sheets",
+    "date": "02/02/2026",
+    "published": true,
+    "logo": "https://assets.pipedream.net/s.v0/app_168hvn/logo/orig"
+  },
+  {
     "name": "AI Textraction",
     "date": "30/01/26",
     "published": true,
@@ -62,241 +272,241 @@
   {
     "name": "Anthropic (Claude)",
     "date": "02/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_1dBhqA/logo/orig"
   },
   {
     "name": "api4ai",
     "date": "02/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_aLhaZV/logo/orig"
   },
   {
     "name": "astica.ai",
     "date": "03/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_3GhgjN/logo/orig"
   },
   {
     "name": "AutoBlogger",
     "date": "03/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_WnhPo6/logo/orig"
   },
   {
     "name": "Autobound",
     "date": "03/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_WnhPVV/logo/orig"
   },
   {
     "name": "Azure AI Vision",
     "date": "04/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_D5hMBR/logo/orig"
   },
   {
     "name": "bot9",
     "date": "04/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_xohxRy/logo/orig"
   },
   {
     "name": "Botcake",
     "date": "04/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_YMhJd2/logo/orig"
   },
   {
     "name": "Browserbase",
     "date": "05/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_e3hxbe/logo/orig"
   },
   {
     "name": "BurstyAI",
     "date": "05/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_7Lho8N/logo/orig"
   },
   {
     "name": "Castmagic",
     "date": "05/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_8Phqa4/logo/orig"
   },
   {
     "name": "ChainAware.ai",
     "date": "06/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_z6hGdJ/logo/orig"
   },
   {
     "name": "Chaindesk",
     "date": "06/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Noh9Pn/logo/orig"
   },
   {
     "name": "Chatbot Builder",
     "date": "06/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Gehp5B/logo/orig"
   },
   {
     "name": "ChatBotKit",
     "date": "07/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_JQh76E/logo/orig"
   },
   {
     "name": "ChatFly",
     "date": "07/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_dBhw2B/logo/orig"
   },
   {
     "name": "Chatlayer",
     "date": "07/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_z6hGKW/logo/orig"
   },
   {
     "name": "Claid AI",
     "date": "08/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_QYhqxV/logo/orig"
   },
   {
     "name": "Cody",
     "date": "08/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_pbhARa/logo/orig"
   },
   {
     "name": "Columns Ai",
     "date": "08/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_o7hbvr/logo/orig"
   },
   {
     "name": "Contact Enhance",
     "date": "09/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_jEheLr/logo/orig"
   },
   {
     "name": "Cradl AI",
     "date": "09/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Bxh3JG/logo/orig"
   },
   {
     "name": "Deepgram",
     "date": "09/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_X7Lhjj/logo/orig"
   },
   {
     "name": "DeepImage",
     "date": "10/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_8Phq5L/logo/orig"
   },
   {
     "name": "DeepSeek",
     "date": "10/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Rphvnx/logo/orig"
   },
   {
     "name": "Documenterra",
     "date": "10/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_3GhgQ2/logo/orig"
   },
   {
     "name": "DopplerAI",
     "date": "11/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_02h9pD/logo/orig"
   },
   {
     "name": "Dust",
     "date": "11/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Arhjxz/logo/orig"
   },
   {
     "name": "E2B",
     "date": "11/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_o7hb9E/logo/orig"
   },
   {
     "name": "Easy-Peasy.AI",
     "date": "12/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Bxh3q7/logo/orig"
   },
   {
     "name": "fal.ai",
     "date": "12/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_JQh7ne/logo/orig"
   },
   {
     "name": "Faraday",
     "date": "12/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_jEheBV/logo/orig"
   },
   {
     "name": "Fireflies",
     "date": "13/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_krhRK5/logo/orig"
   },
   {
     "name": "Flash (by Velora AI)",
     "date": "13/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_ywhgEG/logo/orig"
   },
   {
     "name": "Flipando",
     "date": "13/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_lxhDBA/logo/orig"
   },
   {
     "name": "FlowiseAI",
     "date": "13/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_ywhgnl/logo/orig"
   },
   {
     "name": "Gan.AI",
     "date": "13/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_M0hvE3/logo/orig"
   },
   {
     "name": "Genderize",
     "date": "13/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_dBhwWB/logo/orig"
   },
   {
     "name": "Generated Photos",
     "date": "13/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_mn5hJK/logo/orig"
   },
   {
     "name": "Google Cloud Vision",
     "date": "13/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_krhRP2/logo/orig"
   },
   {
@@ -1602,12 +1812,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_XGehGG/logo/orig"
   },
   {
-    "name": "QuickBooks",
-    "date": "03/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_m02hWG/logo/orig"
-  },
-  {
     "name": "Quickbooks Sandbox",
     "date": "03/03/26",
     "published": false,
@@ -1656,12 +1860,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_qeh7a4/logo/orig"
   },
   {
-    "name": "Shopify",
-    "date": "03/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_qeh7a4/logo/orig"
-  },
-  {
     "name": "Shoprocket",
     "date": "03/03/26",
     "published": false,
@@ -1678,12 +1876,6 @@
     "date": "03/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_1M0hQd/logo/orig"
-  },
-  {
-    "name": "Stripe",
-    "date": "03/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_OD5hrX/logo/orig"
   },
   {
     "name": "SumUp",
@@ -1914,12 +2106,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_Z2hx6j/logo/orig"
   },
   {
-    "name": "Gmail",
-    "date": "05/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_OQYhq7/logo/orig"
-  },
-  {
     "name": "Google Chat",
     "date": "05/03/26",
     "published": false,
@@ -1948,12 +2134,6 @@
     "date": "06/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_OkrhLP/logo/orig"
-  },
-  {
-    "name": "Intercom",
-    "date": "06/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1pbh0B/logo/orig"
   },
   {
     "name": "Invision Community",
@@ -2026,18 +2206,6 @@
     "date": "06/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XaLhGK/logo/orig"
-  },
-  {
-    "name": "Microsoft Outlook",
-    "date": "06/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_XbPhEP/logo/orig"
-  },
-  {
-    "name": "Microsoft Teams",
-    "date": "06/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1M0hlk/logo/orig"
   },
   {
     "name": "MixMax",
@@ -2170,12 +2338,6 @@
     "date": "07/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_OrZheW/logo/orig"
-  },
-  {
-    "name": "Slack",
-    "date": "08/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_OkrhR1/logo/orig"
   },
   {
     "name": "SlickText",
@@ -2430,12 +2592,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_XBxhN2/logo/orig"
   },
   {
-    "name": "HubSpot",
-    "date": "10/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_OkrhlP/logo/orig"
-  },
-  {
     "name": "Hunter",
     "date": "10/03/26",
     "published": false,
@@ -2554,12 +2710,6 @@
     "date": "11/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XGehMQ/logo/orig"
-  },
-  {
-    "name": "Pipedrive",
-    "date": "11/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1lxhdk/logo/orig"
   },
   {
     "name": "quentn",
@@ -3168,18 +3318,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_OkrhWl/logo/orig"
   },
   {
-    "name": "GitHub",
-    "date": "15/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_OrZhaO/logo/orig"
-  },
-  {
-    "name": "GitLab",
-    "date": "15/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1Z2hw1/logo/orig"
-  },
-  {
     "name": "GoDaddy",
     "date": "15/03/26",
     "published": false,
@@ -3510,12 +3648,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_Noh93P/logo/orig"
   },
   {
-    "name": "Box",
-    "date": "17/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1RphyX/logo/orig"
-  },
-  {
     "name": "Cincopa",
     "date": "17/03/26",
     "published": false,
@@ -3582,12 +3714,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_mE7hLb/logo/orig"
   },
   {
-    "name": "Dropbox",
-    "date": "17/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_XGehk1/logo/orig"
-  },
-  {
     "name": "Dropmark",
     "date": "17/03/26",
     "published": false,
@@ -3642,12 +3768,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_1pbh98/logo/orig"
   },
   {
-    "name": "Google Drive",
-    "date": "17/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1lxhk1/logo/orig"
-  },
-  {
     "name": "Google Photos",
     "date": "17/03/26",
     "published": false,
@@ -3676,12 +3796,6 @@
     "date": "18/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XbPhaz/logo/orig"
-  },
-  {
-    "name": "Microsoft OneDrive",
-    "date": "18/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_mjEhWP/logo/orig"
   },
   {
     "name": "Nextcloud",
@@ -3808,18 +3922,6 @@
     "date": "18/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Bxh3Vb/logo/orig"
-  },
-  {
-    "name": "Freshdesk",
-    "date": "18/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1Nohev/logo/orig"
-  },
-  {
-    "name": "Freshservice",
-    "date": "18/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_mJQhra/logo/orig"
   },
   {
     "name": "Help Scout",
@@ -4234,12 +4336,6 @@
     "date": "21/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XBxhP1/logo/orig"
-  },
-  {
-    "name": "LinearB",
-    "date": "21/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_o7hbQ9/logo/orig"
   },
   {
     "name": "ncScale",
@@ -4902,12 +4998,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_1YMhYB/logo/orig"
   },
   {
-    "name": "LinkedIn",
-    "date": "24/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1dBhRX/logo/orig"
-  },
-  {
     "name": "listmonk",
     "date": "24/03/26",
     "published": false,
@@ -5202,22 +5292,10 @@
     "logo": "https://assets.pipedream.net/s.v0/app_mWnhwZ/logo/orig"
   },
   {
-    "name": "Airtable",
-    "date": "26/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_XBxhAl/logo/orig"
-  },
-  {
     "name": "Amara",
     "date": "26/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_mn5hVN/logo/orig"
-  },
-  {
-    "name": "Asana",
-    "date": "26/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_OVWhPX/logo/orig"
   },
   {
     "name": "awork",
@@ -5262,12 +5340,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_KvhpoN/logo/orig"
   },
   {
-    "name": "Calendly",
-    "date": "26/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_Oz6h0D/logo/orig"
-  },
-  {
     "name": "ChatPDF",
     "date": "26/03/26",
     "published": false,
@@ -5278,12 +5350,6 @@
     "date": "26/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XKvhzb/logo/orig"
-  },
-  {
-    "name": "ClickUp",
-    "date": "26/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_1NohVg/logo/orig"
   },
   {
     "name": "Clockify",
@@ -5308,12 +5374,6 @@
     "date": "27/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XBxhav/logo/orig"
-  },
-  {
-    "name": "Confluence",
-    "date": "27/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_m4dhrm/logo/orig"
   },
   {
     "name": "Cutt.ly",
@@ -5424,22 +5484,10 @@
     "logo": "https://assets.pipedream.net/s.v0/app_X8PhWw/logo/orig"
   },
   {
-    "name": "Google Calendar",
-    "date": "27/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_13Gh2V/logo/orig"
-  },
-  {
     "name": "Google Search Console",
     "date": "27/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XBxhdV/logo/orig"
-  },
-  {
-    "name": "Google Sheets",
-    "date": "27/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_168hvn/logo/orig"
   },
   {
     "name": "Google Tasks",
@@ -5494,12 +5542,6 @@
     "date": "27/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Xywhaw/logo/orig"
-  },
-  {
-    "name": "Jira",
-    "date": "27/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_mArhw1/logo/orig"
   },
   {
     "name": "Kanban Tool",
@@ -5590,12 +5632,6 @@
     "date": "28/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_pbhAog/logo/orig"
-  },
-  {
-    "name": "Notion",
-    "date": "28/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_X7Lhxr/logo/orig"
   },
   {
     "name": "OFFLIGHT",
@@ -5758,12 +5794,6 @@
     "date": "28/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XKvhjJ/logo/orig"
-  },
-  {
-    "name": "Trello",
-    "date": "28/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_168hnX/logo/orig"
   },
   {
     "name": "Bitdefender GravityZone",
@@ -6244,12 +6274,6 @@
     "date": "30/03/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_z6hGeN/logo/orig"
-  },
-  {
-    "name": "Okta",
-    "date": "30/03/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_XywhgN/logo/orig"
   },
   {
     "name": "Overledger",
@@ -6804,12 +6828,6 @@
     "logo": "https://assets.pipedream.net/s.v0/app_VWhVYd/logo/orig"
   },
   {
-    "name": "Microsoft 365 Planner",
-    "date": "02/04/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_vNh2Q5/logo/orig"
-  },
-  {
     "name": "Microsoft Entra ID",
     "date": "02/04/26",
     "published": false,
@@ -6826,18 +6844,6 @@
     "date": "02/04/26",
     "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_e3hxQ6/logo/orig"
-  },
-  {
-    "name": "Microsoft Outlook Calendar",
-    "date": "02/04/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_02h9Gg/logo/orig"
-  },
-  {
-    "name": "Microsoft Sharepoint Online",
-    "date": "02/04/26",
-    "published": false,
-    "logo": "https://assets.pipedream.net/s.v0/app_qeh7q7/logo/orig"
   },
   {
     "name": "Missive",
