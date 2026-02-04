@@ -6,6 +6,7 @@ Parses generated integration pages and formats them for Strapi API
 import re
 from typing import Dict, Any, List, Optional
 from datetime import datetime
+from category_matcher import CategoryMatcher
 
 
 class StrapiContentParser:
@@ -59,6 +60,16 @@ class StrapiContentParser:
             # Use fallback FAQs if parsing failed or too few FAQs
             faqs = StrapiContentParser._generate_faqs(connector_name, capabilities, workflows)
 
+        # Match categories and tags based on content
+        try:
+            matcher = CategoryMatcher()
+            category_ids = matcher.match_categories(connector_name, content)
+            tag_ids = matcher.match_tags(connector_name, content)
+        except Exception as e:
+            print(f"   ⚠️  Category/Tag matching failed: {e}")
+            category_ids = []
+            tag_ids = []
+
         # Build Strapi API payload matching user's exact JSON structure
         strapi_data = {
             "name": connector_name,
@@ -67,6 +78,8 @@ class StrapiContentParser:
             "slug": slug,
             "icon": logo_url,
             "content": html_content,
+            "category": category_ids,
+            "tags": tag_ids,
             "faqs": faqs,
             "seo": {
                 "metaTitle": (title or f"{connector_name} Integration - Ruh AI")[:60],  # Max 60 chars

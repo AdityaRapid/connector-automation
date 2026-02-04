@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "documentId": "bbp3590pwit8g3p7dcd9iz4e",
+    "name": "Native",
+    "slug": "native",
+    "color": null,
+    "keywords": ["native", "built-in", "direct", "first-party", "official", "proprietary"],
+    "createdAt": "2026-01-28T11:49:53.805Z",
+    "updatedAt": "2026-01-28T11:50:35.358Z",
+    "publishedAt": "2026-01-28T11:50:35.326Z"
+  },
+  {
+    "id": 2,
+    "documentId": "qrwc5x1bv76vy6jtqv2iq0t4",
+    "name": "Connector",
+    "slug": "connector",
+    "color": null,
+    "keywords": ["connector", "integration", "third-party", "api", "webhook", "sync", "connect"],
+    "createdAt": "2026-01-28T11:52:57.616Z",
+    "updatedAt": "2026-01-28T11:52:57.616Z",
+    "publishedAt": "2026-01-28T11:52:57.604Z"
+  },
+  {
+    "id": 3,
+    "documentId": "qynq52rig7cgmzaqbbqclt9t",
+    "name": "Push API",
+    "slug": "push-api",
+    "color": null,
+    "keywords": ["push", "api", "rest api", "webhook", "real-time", "event", "notification"],
+    "createdAt": "2026-02-03T13:18:48.951Z",
+    "updatedAt": "2026-02-03T13:18:48.951Z",
+    "publishedAt": "2026-02-03T13:18:48.939Z"
+  }
+]
+

@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "CRM",
+    "slug": "crm",
+    "keywords": ["crm", "customer relationship", "sales", "leads", "contacts", "deals", "pipeline", "salesforce", "hubspot", "zoho"]
+  },
+  {
+    "id": 2,
+    "name": "Calendar & Scheduling",
+    "slug": "calendar-and-scheduling",
+    "keywords": ["calendar", "scheduling", "appointment", "meeting", "booking", "availability", "calendly", "schedule", "time slot"]
+  },
+  {
+    "id": 3,
+    "name": "Communication",
+    "slug": "communication",
+    "keywords": ["communication", "messaging", "chat", "slack", "teams", "discord", "collaboration", "conversation", "channel"]
+  },
+  {
+    "id": 4,
+    "name": "Docs & Knowledge",
+    "slug": "docs-and-knowledge",
+    "keywords": ["documentation", "knowledge base", "wiki", "notes", "notion", "confluence", "documents", "content management", "articles"]
+  },
+  {
+    "id": 5,
+    "name": "Ecommerce",
+    "slug": "ecommerce",
+    "keywords": ["ecommerce", "e-commerce", "shopify", "store", "products", "cart", "checkout", "payment", "orders", "inventory"]
+  },
+  {
+    "id": 6,
+    "name": "Email",
+    "slug": "email",
+    "keywords": ["email", "gmail", "outlook", "mail", "inbox", "smtp", "newsletter", "campaign", "mailchimp"]
+  },
+  {
+    "id": 7,
+    "name": "Engineering",
+    "slug": "engineering",
+    "keywords": ["engineering", "development", "code", "github", "gitlab", "jira", "deployment", "ci/cd", "devops", "repository"]
+  },
+  {
+    "id": 8,
+    "name": "Finance & Billing",
+    "slug": "finance-and-billing",
+    "keywords": ["finance", "billing", "invoice", "payment", "stripe", "accounting", "quickbooks", "expense", "revenue", "subscription"]
+  },
+  {
+    "id": 9,
+    "name": "Identity & SSO",
+    "slug": "identity-and-sso",
+    "keywords": ["identity", "sso", "authentication", "auth", "login", "oauth", "saml", "okta", "active directory", "user management"]
+  },
+  {
+    "id": 10,
+    "name": "Project Management",
+    "slug": "project-management",
+    "keywords": ["project management", "tasks", "workflow", "asana", "trello", "monday", "project", "kanban", "sprint", "agile"]
+  }
+]
+
