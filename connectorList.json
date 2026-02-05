@@ -86,259 +86,259 @@
   {
     "name": "Microsoft Sharepoint Online",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_qeh7q7/logo/orig"
   },
   {
     "name": "Okta",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XywhgN/logo/orig"
   },
   {
     "name": "Notion",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_X7Lhxr/logo/orig"
   },
   {
     "name": "Confluence",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_m4dhrm/logo/orig"
   },
   {
     "name": "Asana",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_OVWhPX/logo/orig"
   },
   {
     "name": "ClickUp",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_1NohVg/logo/orig"
   },
   {
     "name": "Jira",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_mArhw1/logo/orig"
   },
   {
     "name": "LinearB",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_o7hbQ9/logo/orig"
   },
   {
     "name": "Microsoft 365 Planner",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_vNh2Q5/logo/orig"
   },
   {
     "name": "Trello",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_168hnX/logo/orig"
   },
   {
     "name": "Monday.com",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "/assets/images/Integrations/logosConnector/monday.svg"
   },
   {
     "name": "Freshdesk",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_1Nohev/logo/orig"
   },
   {
     "name": "Freshservice",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_mJQhra/logo/orig"
   },
   {
     "name": "Intercom",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_1pbh0B/logo/orig"
   },
   {
     "name": "QuickBooks",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_m02hWG/logo/orig"
   },
   {
     "name": "Shopify",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_qeh7a4/logo/orig"
   },
   {
     "name": "Stripe",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_OD5hrX/logo/orig"
   },
   {
     "name": "Microsoft Teams",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_1M0hlk/logo/orig"
   },
   {
     "name": "Slack",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_OkrhR1/logo/orig"
   },
   {
     "name": "Airtable",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_XBxhAl/logo/orig"
   },
   {
     "name": "Google Sheets",
     "date": "02/02/2026",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_168hvn/logo/orig"
   },
   {
     "name": "AI Textraction",
     "date": "30/01/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Gehpzd/logo/orig"
   },
   {
     "name": "Aidbase",
     "date": "30/01/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_M0hv9w/logo/orig"
   },
   {
     "name": "AirOps",
     "date": "30/01/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_Gehpxq/logo/orig"
   },
   {
     "name": "Airparser",
     "date": "31/01/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_WnhPE8/logo/orig"
   },
   {
     "name": "AITable.ai",
     "date": "31/01/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_rZhMlP/logo/orig"
   },
   {
     "name": "Albus",
     "date": "31/01/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_qeh7Ja/logo/orig"
   },
   {
     "name": "Algomo",
     "date": "01/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_jEheV4/logo/orig"
   },
   {
     "name": "All-Images.ai",
     "date": "01/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_YMhJbK/logo/orig"
   },
   {
     "name": "AltText.ai",
     "date": "01/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_dBhwoM/logo/orig"
   },
   {
     "name": "Anchor Browser",
     "date": "02/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_o7hbEN/logo/orig"
   },
   {
     "name": "Anthropic (Claude)",
     "date": "02/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_1dBhqA/logo/orig"
   },
   {
     "name": "api4ai",
     "date": "02/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_aLhaZV/logo/orig"
   },
   {
     "name": "astica.ai",
     "date": "03/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_3GhgjN/logo/orig"
   },
   {
     "name": "AutoBlogger",
     "date": "03/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_WnhPo6/logo/orig"
   },
   {
     "name": "Autobound",
     "date": "03/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_WnhPVV/logo/orig"
   },
   {
     "name": "Azure AI Vision",
     "date": "04/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_D5hMBR/logo/orig"
   },
   {
     "name": "bot9",
     "date": "04/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_xohxRy/logo/orig"
   },
   {
     "name": "Botcake",
     "date": "04/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_YMhJd2/logo/orig"
   },
   {
     "name": "Browserbase",
     "date": "05/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_e3hxbe/logo/orig"
   },
   {
     "name": "BurstyAI",
     "date": "05/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_7Lho8N/logo/orig"
   },
   {
     "name": "Castmagic",
     "date": "05/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_8Phqa4/logo/orig"
   },
   {
     "name": "ChainAware.ai",
     "date": "06/02/26",
-    "published": true,
+    "published": false,
     "logo": "https://assets.pipedream.net/s.v0/app_z6hGdJ/logo/orig"
   },
   {
